@@ -1,0 +1,122 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Weng Xuetian <wengxt@gmail.com>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2021-01-03 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/kdeplasma-addons/plasma_applet_org.kde."
+"plasma.quicklaunch.pot\n"
+"X-Crowdin-File-ID: 2765\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "常规"
+
+#: package/contents/ui/ConfigGeneral.qml:44
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Maximum columns:"
+msgstr "最大列数："
+
+#: package/contents/ui/ConfigGeneral.qml:44
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Maximum rows:"
+msgstr "最大行数："
+
+#: package/contents/ui/ConfigGeneral.qml:58
+#, kde-format
+msgctxt "@title:group"
+msgid "Appearance:"
+msgstr "外观："
+
+#: package/contents/ui/ConfigGeneral.qml:60
+#, kde-format
+msgctxt "@option:check"
+msgid "Show launcher names"
+msgstr "显示启动器名称"
+
+#: package/contents/ui/ConfigGeneral.qml:65
+#, kde-format
+msgctxt "@option:check"
+msgid "Enable popup"
+msgstr "启用弹出"
+
+#: package/contents/ui/ConfigGeneral.qml:75
+#, kde-format
+msgctxt "@title:group"
+msgid "Title:"
+msgstr "标题："
+
+#: package/contents/ui/ConfigGeneral.qml:83
+#, kde-format
+msgctxt "@option:check"
+msgid "Show:"
+msgstr "显示："
+
+#: package/contents/ui/ConfigGeneral.qml:99
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Custom title"
+msgstr "自定义标题"
+
+#: package/contents/ui/IconItem.qml:143
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Add Launcher..."
+msgstr "添加启动器..."
+
+#: package/contents/ui/IconItem.qml:149
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Edit Launcher..."
+msgstr "编辑启动器..."
+
+#: package/contents/ui/IconItem.qml:155
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove Launcher"
+msgstr "删除启动器"
+
+#: package/contents/ui/main.qml:145
+#, kde-format
+msgid "Quicklaunch"
+msgstr "快速启动"
+
+#: package/contents/ui/main.qml:146
+#, kde-format
+msgctxt "@info"
+msgid "Add launchers by Drag and Drop or by using the context menu."
+msgstr "您可以通过拖放操作添加启动器。"
+
+#: package/contents/ui/main.qml:172
+#, kde-format
+msgid "Hide icons"
+msgstr "隐藏图标"
+
+#: package/contents/ui/main.qml:172
+#, kde-format
+msgid "Show hidden icons"
+msgstr "显示隐藏的图标"
+
+#: package/contents/ui/main.qml:271
+#, kde-format
+msgctxt "@action"
+msgid "Add Launcher..."
+msgstr "添加启动器..."

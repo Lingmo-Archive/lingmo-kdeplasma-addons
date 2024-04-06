@@ -1,0 +1,34 @@
+#!/usr/bin/make -f
+
+export DEB_BUILD_MAINT_OPTIONS=hardening=+all
+export DEB_HOST_MULTIARCH ?= $(shell dpkg-architecture -qDEB_HOST_MULTIARCH)
+
+%:
+	dh $@ --with kf5,pkgkde_symbolshelper --buildsystem kf5 --without build_stamp
+
+override_dh_auto_configure:
+	dh_auto_configure -Skf5 -- -DBUILD_TESTING=OFF
+
+override_dh_auto_test:
+	# Disable dh_auto_test at build time
+	:
+
+override_dh_install:
+	dh_install
+	# Try to copy the webengine dependant applet
+	-cp -r debian/tmp/usr/lib/*/qt5/qml/org/kde/plasma/private/dict/ \
+	    debian/plasma-widgets-addons/usr/lib/$${DEB_HOST_MULTIARCH}/qt5/qml/org/kde/plasma/private/
+	-cp -r debian/tmp/usr/share/plasma/plasmoids/org.kde.plasma_applet_dict/ \
+	    debian/plasma-widgets-addons/usr/share/plasma/plasmoids/
+	-cp debian/tmp/usr/share/icons/hicolor/scalable/apps/accessories-dictionary.svgz \
+	    debian/plasma-widgets-addons/usr/share/icons/hicolor/scalable/apps/
+	-cp debian/tmp/usr/share/kservices5/plasma-applet-org.kde.plasma_applet_dict.desktop \
+	    debian/plasma-widgets-addons/usr/share/kservices5/
+	-cp debian/tmp/usr/share/metainfo/org.kde.plasma_applet_dict.appdata.xml \
+	    debian/plasma-widgets-addons/usr/share/metainfo/
+	-cp debian/tmp/usr/share/kservices5/plasma-applet-org.kde.plasma.webbrowser.desktop \
+	    debian/plasma-widgets-addons/usr/share/kservices5/
+	-cp debian/tmp/usr/share/metainfo/org.kde.plasma.webbrowser.appdata.xml \
+	    debian/plasma-widgets-addons/usr/share/metainfo/
+	-cp -r debian/tmp/usr/share/plasma/plasmoids/org.kde.plasma.webbrowser/ \
+	    debian/plasma-widgets-addons/usr/share/plasma/plasmoids/

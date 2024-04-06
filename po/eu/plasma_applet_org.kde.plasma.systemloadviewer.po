@@ -1,0 +1,258 @@
+# Translation of plasma_applet_org.kde.plasma.systemloadviewer.po to Euskara/Basque (eu).
+# Copyright (C) 2009-2017, The Free Software Foundation.
+# Copyright (C) 2018-2019, This file is copyright:
+# This file is distributed under the same license as the kdeplasma-addons package.
+# KDE Euskaratzeko proiektuaren arduraduna <xalba@euskalnet.net.
+#
+# Translators:
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2009, 2011, 2017, 2018, 2019.
+# marcos <marcos@euskalgnu.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-30 03:36+0100\n"
+"PO-Revision-Date: 2019-06-10 16:42+0100\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@euskalnet.net>\n"
+"Language-Team: Basque <kde-i18n-eu@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "Orokorra"
+
+#: package/contents/config/config.qml:32
+#, kde-format
+msgctxt "@title"
+msgid "Colors"
+msgstr "Koloreak"
+
+#: package/contents/ui/ColorSettings.qml:44
+#, kde-format
+msgctxt "@option:check"
+msgid "Set Colors Manually"
+msgstr "Ezarri koloreak eskuz"
+
+#: package/contents/ui/ColorSettings.qml:49
+#, kde-format
+msgctxt "@title:group"
+msgid "CPU"
+msgstr "PUZ"
+
+#: package/contents/ui/ColorSettings.qml:56
+#, kde-format
+msgctxt "@label:chooser"
+msgid "User:"
+msgstr "Erabiltzailea:"
+
+#: package/contents/ui/ColorSettings.qml:62
+#, kde-format
+msgctxt "@label:chooser"
+msgid "IOWait:"
+msgstr "S/I Itxaronaldia:"
+
+#: package/contents/ui/ColorSettings.qml:68
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Sys:"
+msgstr "Sistema:"
+
+#: package/contents/ui/ColorSettings.qml:74
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Nice:"
+msgstr "Adeitsu:"
+
+#: package/contents/ui/ColorSettings.qml:81
+#, kde-format
+msgctxt "@title:group"
+msgid "Memory"
+msgstr "Memoria"
+
+#: package/contents/ui/ColorSettings.qml:88
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Application:"
+msgstr "Aplikazioa:"
+
+#: package/contents/ui/ColorSettings.qml:94
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Buffers:"
+msgstr "Bufferrak:"
+
+#: package/contents/ui/ColorSettings.qml:101
+#, kde-format
+msgctxt "@title:group"
+msgid "Swap"
+msgstr "Trukaketa memoria"
+
+#: package/contents/ui/ColorSettings.qml:108
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Used swap:"
+msgstr "Erabilitako trukaketa:"
+
+#: package/contents/ui/ColorSettings.qml:115
+#, kde-format
+msgctxt "@title:group"
+msgid "Cache"
+msgstr "Cachea"
+
+#: package/contents/ui/ColorSettings.qml:122
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Dirty memory:"
+msgstr "Memoria zikina:"
+
+# xalba 2017-11-07:
+# Writeback memory: Idazketa atzeratuko memoria
+# itzuliko nuke, baino ez nago ziur. "Writeback" bere horretan utziko dut.
+# frantsesez horrela itzuli dute: Mémoire en écriture différée
+# gazteleraz horrela itzuli dute: Memoria de escritura diferida
+#: package/contents/ui/ColorSettings.qml:128
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Writeback memory:"
+msgstr "Writeback memoria:"
+
+#: package/contents/ui/GeneralSettings.qml:47
+#, kde-format
+msgctxt "@label"
+msgid "Show:"
+msgstr "Erakutsi:"
+
+#: package/contents/ui/GeneralSettings.qml:49
+#, kde-format
+msgctxt "@option:check"
+msgid "CPU monitor"
+msgstr "PUZ begiralea"
+
+#: package/contents/ui/GeneralSettings.qml:64
+#, kde-format
+msgctxt "@option:check"
+msgid "CPUs separately"
+msgstr "PUZak banan-banan"
+
+#: package/contents/ui/GeneralSettings.qml:71
+#, kde-format
+msgctxt "@option:check"
+msgid "Memory monitor"
+msgstr "Memoria begiralea"
+
+#: package/contents/ui/GeneralSettings.qml:76
+#, kde-format
+msgctxt "@option:check"
+msgid "Swap monitor"
+msgstr "Trukaketa begiralea"
+
+#: package/contents/ui/GeneralSettings.qml:81
+#, kde-format
+msgctxt "@option:check"
+msgid "Cache monitor"
+msgstr "Cache begiralea"
+
+#: package/contents/ui/GeneralSettings.qml:94
+#, kde-format
+msgctxt "@label"
+msgid "Monitor type:"
+msgstr "Begirale mota:"
+
+#: package/contents/ui/GeneralSettings.qml:96
+#, kde-format
+msgctxt "@option:radio"
+msgid "Bar"
+msgstr "Barra"
+
+#: package/contents/ui/GeneralSettings.qml:106
+#, kde-format
+msgctxt "@option:radio"
+msgid "Circular"
+msgstr "Zirkularra"
+
+#: package/contents/ui/GeneralSettings.qml:116
+#, kde-format
+msgctxt "@option:radio"
+msgid "Compact bar"
+msgstr "Barra trinkoa"
+
+#: package/contents/ui/GeneralSettings.qml:133
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Update interval:"
+msgstr "Eguneratze-tartea:"
+
+#: package/contents/ui/GeneralSettings.qml:138
+#, kde-format
+msgctxt "@item:valuesuffix spacing to number + unit (seconds)"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] " segundo"
+msgstr[1] " segundo"
+
+#: package/contents/ui/SystemLoadViewer.qml:231
+#, kde-format
+msgid "CPU%1: %2% @ %3 Mhz"
+msgstr "CPU%1: %%2 @ %3 Mhz"
+
+#: package/contents/ui/SystemLoadViewer.qml:239
+#, kde-format
+msgid "CPU: %1%"
+msgstr "CPU: %%1"
+
+#: package/contents/ui/SystemLoadViewer.qml:240
+#, kde-format
+msgid "Average clock: %1 MHz"
+msgstr "Erlojuaren batez-bestekoa: %1 MHz"
+
+#: package/contents/ui/SystemLoadViewer.qml:246
+#, kde-format
+msgid "Memory: %1/%2 MiB"
+msgstr "Memoria: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:251
+#, kde-format
+msgid "Swap: %1/%2 MiB"
+msgstr "Trukaketa: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:255
+#, kde-format
+msgid "Cache Dirty, Writeback: %1 MiB, %2 MiB"
+msgstr "Cache zikina, Writeback: %1 MiB, %2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:368
+#, kde-format
+msgid "System load"
+msgstr "Sistemaren zama"
+
+#: package/contents/ui/SystemLoadViewer.qml:447
+#, kde-format
+msgid "CPU %1"
+msgstr "PUZ %1"
+
+#: package/contents/ui/SystemLoadViewer.qml:480
+#, kde-format
+msgid "CPU"
+msgstr "PUZ"
+
+#: package/contents/ui/SystemLoadViewer.qml:502
+#, kde-format
+msgid "Memory"
+msgstr "Memoria"
+
+#: package/contents/ui/SystemLoadViewer.qml:524
+#, kde-format
+msgid "Swap"
+msgstr "Trukaketa memoria"
+
+#: package/contents/ui/SystemLoadViewer.qml:546
+#, kde-format
+msgid "Cache"
+msgstr "Cachea"

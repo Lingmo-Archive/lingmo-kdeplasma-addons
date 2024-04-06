@@ -1,0 +1,253 @@
+# Copyright © 2010, 2011 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdeplasma-addons package.
+# Tommi Nieminen <translator@legisign.org>, 2010, 2017, 2018, 2019.
+# Lasse Liehu <lasse.liehu@gmail.com>, 2011, 2013, 2014, 2015.
+#
+# KDE Finnish translation sprint participants:
+# Author: Artnay
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_systemloadviewer\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-30 03:36+0100\n"
+"PO-Revision-Date: 2019-05-12 18:43+0200\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-POT-Import-Date: 2012-12-01 22:25:25+0000\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "Yleistä"
+
+#: package/contents/config/config.qml:32
+#, kde-format
+msgctxt "@title"
+msgid "Colors"
+msgstr "Värit"
+
+#: package/contents/ui/ColorSettings.qml:44
+#, kde-format
+msgctxt "@option:check"
+msgid "Set Colors Manually"
+msgstr "Aseta värit itse"
+
+#: package/contents/ui/ColorSettings.qml:49
+#, kde-format
+msgctxt "@title:group"
+msgid "CPU"
+msgstr "Suoritin"
+
+#: package/contents/ui/ColorSettings.qml:56
+#, kde-format
+msgctxt "@label:chooser"
+msgid "User:"
+msgstr "Käyttäjä:"
+
+#: package/contents/ui/ColorSettings.qml:62
+#, kde-format
+msgctxt "@label:chooser"
+msgid "IOWait:"
+msgstr "I/O-odotus:"
+
+#: package/contents/ui/ColorSettings.qml:68
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Sys:"
+msgstr "Järjestelmä:"
+
+#: package/contents/ui/ColorSettings.qml:74
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Nice:"
+msgstr "Nice:"
+
+#: package/contents/ui/ColorSettings.qml:81
+#, kde-format
+msgctxt "@title:group"
+msgid "Memory"
+msgstr "Muisti"
+
+#: package/contents/ui/ColorSettings.qml:88
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Application:"
+msgstr "Sovellus:"
+
+#: package/contents/ui/ColorSettings.qml:94
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Buffers:"
+msgstr "Puskurit:"
+
+#: package/contents/ui/ColorSettings.qml:101
+#, kde-format
+msgctxt "@title:group"
+msgid "Swap"
+msgstr "Sivutus"
+
+#: package/contents/ui/ColorSettings.qml:108
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Used swap:"
+msgstr "Käytetty sivutus:"
+
+#: package/contents/ui/ColorSettings.qml:115
+#, kde-format
+msgctxt "@title:group"
+msgid "Cache"
+msgstr "Välimuisti"
+
+#: package/contents/ui/ColorSettings.qml:122
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Dirty memory:"
+msgstr "Likainen muisti:"
+
+# *** TARKISTA: Ilmeisesti tässä tiedostossa ainoat writeback-esiintymät koko Plasmassa? Onko parempaa käännöstä?
+#: package/contents/ui/ColorSettings.qml:128
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Writeback memory:"
+msgstr "Takaisinkirjoitusmuisti:"
+
+#: package/contents/ui/GeneralSettings.qml:47
+#, kde-format
+msgctxt "@label"
+msgid "Show:"
+msgstr "Näytä:"
+
+#: package/contents/ui/GeneralSettings.qml:49
+#, kde-format
+msgctxt "@option:check"
+msgid "CPU monitor"
+msgstr "Suoritinnäyttö"
+
+#: package/contents/ui/GeneralSettings.qml:64
+#, kde-format
+msgctxt "@option:check"
+msgid "CPUs separately"
+msgstr "Suorittimet erillään"
+
+#: package/contents/ui/GeneralSettings.qml:71
+#, kde-format
+msgctxt "@option:check"
+msgid "Memory monitor"
+msgstr "Muistinäyttö"
+
+#: package/contents/ui/GeneralSettings.qml:76
+#, kde-format
+msgctxt "@option:check"
+msgid "Swap monitor"
+msgstr "Sivutusnäyttö"
+
+#: package/contents/ui/GeneralSettings.qml:81
+#, kde-format
+msgctxt "@option:check"
+msgid "Cache monitor"
+msgstr "Välimuistinäyttö"
+
+#: package/contents/ui/GeneralSettings.qml:94
+#, kde-format
+msgctxt "@label"
+msgid "Monitor type:"
+msgstr "Näyttötyyppi:"
+
+#: package/contents/ui/GeneralSettings.qml:96
+#, kde-format
+msgctxt "@option:radio"
+msgid "Bar"
+msgstr "Pylväs"
+
+#: package/contents/ui/GeneralSettings.qml:106
+#, kde-format
+msgctxt "@option:radio"
+msgid "Circular"
+msgstr "Ympyrä"
+
+#: package/contents/ui/GeneralSettings.qml:116
+#, kde-format
+msgctxt "@option:radio"
+msgid "Compact bar"
+msgstr "Tiivis palkki"
+
+#: package/contents/ui/GeneralSettings.qml:133
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Update interval:"
+msgstr "Päivitysväli:"
+
+#: package/contents/ui/GeneralSettings.qml:138
+#, kde-format
+msgctxt "@item:valuesuffix spacing to number + unit (seconds)"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] " sekunti"
+msgstr[1] " sekuntia"
+
+#: package/contents/ui/SystemLoadViewer.qml:231
+#, kde-format
+msgid "CPU%1: %2% @ %3 Mhz"
+msgstr "Suoritin %1: %2 % @ %3 Mhz"
+
+#: package/contents/ui/SystemLoadViewer.qml:239
+#, kde-format
+msgid "CPU: %1%"
+msgstr "Suoritin: %1 %"
+
+#: package/contents/ui/SystemLoadViewer.qml:240
+#, kde-format
+msgid "Average clock: %1 MHz"
+msgstr "Keskimääräinen kellotaajuus: %1 MHz"
+
+#: package/contents/ui/SystemLoadViewer.qml:246
+#, kde-format
+msgid "Memory: %1/%2 MiB"
+msgstr "Muisti: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:251
+#, kde-format
+msgid "Swap: %1/%2 MiB"
+msgstr "Sivutus: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:255
+#, kde-format
+msgid "Cache Dirty, Writeback: %1 MiB, %2 MiB"
+msgstr "Välimuisti likainen, takaisinkirjoitus: %1 MiB, %2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:368
+#, kde-format
+msgid "System load"
+msgstr "Järjestelmän kuorma"
+
+#: package/contents/ui/SystemLoadViewer.qml:447
+#, kde-format
+msgid "CPU %1"
+msgstr "Suoritin %1"
+
+#: package/contents/ui/SystemLoadViewer.qml:480
+#, kde-format
+msgid "CPU"
+msgstr "Suoritin"
+
+#: package/contents/ui/SystemLoadViewer.qml:502
+#, kde-format
+msgid "Memory"
+msgstr "Muisti"
+
+#: package/contents/ui/SystemLoadViewer.qml:524
+#, kde-format
+msgid "Swap"
+msgstr "Sivutus"
+
+#: package/contents/ui/SystemLoadViewer.qml:546
+#, kde-format
+msgid "Cache"
+msgstr "Välimuisti"

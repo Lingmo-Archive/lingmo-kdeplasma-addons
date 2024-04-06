@@ -1,0 +1,210 @@
+# translation of plasma_applet_notes.po to slovenščina
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Mihael Simonic <smihael@gmail.com>, 2007.
+# Andrej Vernekar <andrej.vernekar@moj.net>, 2008.
+# Jure Repinc <jlp@holodeck1.com>, 2008, 2009.
+# Andrej Mernik <andrejm@ubuntu.si>, 2013, 2015.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_notes\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2020-03-24 07:26+0100\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Translator: Andrej Mernik <andrejm@ubuntu.si>\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "Videz"
+
+#: package/contents/ui/configAppearance.qml:61
+#, kde-format
+msgid "A white sticky note"
+msgstr "Belo lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:62
+#, kde-format
+msgid "A black sticky note"
+msgstr "Črno lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:63
+#, kde-format
+msgid "A red sticky note"
+msgstr "Rdeče lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:64
+#, kde-format
+msgid "An orange sticky note"
+msgstr "Oranžno lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:65
+#, kde-format
+msgid "A yellow sticky note"
+msgstr "Rumeno lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:66
+#, kde-format
+msgid "A green sticky note"
+msgstr "Zeleno lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:67
+#, kde-format
+msgid "A blue sticky note"
+msgstr "Modro lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:68
+#, kde-format
+msgid "A pink sticky note"
+msgstr "Rožnato lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:69
+#, kde-format
+msgid "A translucent sticky note"
+msgstr "Prosojno lepljivo sporočilce"
+
+#: package/contents/ui/configAppearance.qml:70
+#, kde-format
+msgid "A translucent sticky note with light text"
+msgstr "Prosojno lepljivo sporočilce s svetlim besedilom"
+
+#: package/contents/ui/main.qml:231
+#, kde-format
+msgid "Undo"
+msgstr "Razveljavi"
+
+#: package/contents/ui/main.qml:239
+#, kde-format
+msgid "Redo"
+msgstr "Uveljavi"
+
+#: package/contents/ui/main.qml:249
+#, kde-format
+msgid "Cut"
+msgstr "Izreži"
+
+#: package/contents/ui/main.qml:257
+#, kde-format
+msgid "Copy"
+msgstr "Kopiraj"
+
+#: package/contents/ui/main.qml:265
+#, kde-format
+msgid "Paste Without Formatting"
+msgstr "Prilepi brez oblikovanja"
+
+#: package/contents/ui/main.qml:271
+#, kde-format
+msgid "Paste"
+msgstr "Prilepi"
+
+#: package/contents/ui/main.qml:280
+#, kde-format
+msgid "Delete"
+msgstr "Izbriši"
+
+#: package/contents/ui/main.qml:287
+#, kde-format
+msgid "Clear"
+msgstr "Očisti"
+
+#: package/contents/ui/main.qml:297
+#, kde-format
+msgid "Select All"
+msgstr "Izberi vse"
+
+#: package/contents/ui/main.qml:382
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Bold"
+msgstr "Krepko"
+
+#: package/contents/ui/main.qml:395
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Italic"
+msgstr "Ležeče"
+
+#: package/contents/ui/main.qml:408
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Underline"
+msgstr "Podčrtano"
+
+#: package/contents/ui/main.qml:421
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Strikethrough"
+msgstr "Prečrtano"
+
+#: package/contents/ui/main.qml:462
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "White"
+msgstr "Belo"
+
+#: package/contents/ui/main.qml:463
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Black"
+msgstr "Črno"
+
+#: package/contents/ui/main.qml:464
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Red"
+msgstr "Rdeče"
+
+#: package/contents/ui/main.qml:465
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Orange"
+msgstr "Oranžno"
+
+#: package/contents/ui/main.qml:466
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Yellow"
+msgstr "Rumeno"
+
+#: package/contents/ui/main.qml:467
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Green"
+msgstr "Zeleno"
+
+#: package/contents/ui/main.qml:468
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Blue"
+msgstr "Modro"
+
+#: package/contents/ui/main.qml:469
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Pink"
+msgstr "Rožnato"
+
+#: package/contents/ui/main.qml:470
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent"
+msgstr "Prosojno"
+
+#: package/contents/ui/main.qml:471
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent Light"
+msgstr "Prosojno svetlo"

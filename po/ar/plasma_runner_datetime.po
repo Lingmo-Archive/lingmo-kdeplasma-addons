@@ -1,0 +1,61 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Safa Alfulaij <safa1996alfulaij@gmail.com>, ٢٠١٥.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"PO-Revision-Date: ٢٠١٥-٠٨-١٧ ١٢:٣٩+0300\n"
+"Last-Translator: Safa Alfulaij <safa1996alfulaij@gmail.com>\n"
+"Language-Team: Arabic <doc@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: datetimerunner.cpp:29
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "date"
+msgstr "التاريخ"
+
+#: datetimerunner.cpp:30
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "time"
+msgstr "الوقت"
+
+#: datetimerunner.cpp:37
+#, kde-format
+msgid "Displays the current date"
+msgstr "يعرض التّاريخ الحاليّ"
+
+#: datetimerunner.cpp:38
+#, kde-format
+msgid "Displays the current date in a given timezone"
+msgstr "يعرض التّاريخ الحاليّ في المنطقة الزّمنية المعطاة"
+
+#: datetimerunner.cpp:39
+#, kde-format
+msgid "Displays the current time"
+msgstr "يعرض الوقت الحاليّ"
+
+#: datetimerunner.cpp:40
+#, kde-format
+msgid "Displays the current time in a given timezone"
+msgstr "يعرض الوقت الحاليّ في المنطقة الزّمنية المعطاة"
+
+#: datetimerunner.cpp:52
+#, kde-format
+msgid "Today's date is %1"
+msgstr "تاريخ اليوم هو %1"
+
+#: datetimerunner.cpp:62
+#, kde-format
+msgid "Current time is %1"
+msgstr "الوقت الآن هو %1"

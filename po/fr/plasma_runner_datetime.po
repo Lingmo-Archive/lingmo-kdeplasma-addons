@@ -1,0 +1,65 @@
+# translation of plasma_runner_datetime.po to Français
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Joëlle Cornavin <jcornavin@laposte.net>, 2010.
+# Maxime Corteel <mcorteel@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_runner_datetime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"PO-Revision-Date: 2015-05-26 18:02+0100\n"
+"Last-Translator: Maxime Corteel <mcorteel@gmail.com>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: datetimerunner.cpp:29
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "date"
+msgstr "date"
+
+#: datetimerunner.cpp:30
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "time"
+msgstr "heure"
+
+#: datetimerunner.cpp:37
+#, kde-format
+msgid "Displays the current date"
+msgstr "Affiche la date actuelle"
+
+#: datetimerunner.cpp:38
+#, kde-format
+msgid "Displays the current date in a given timezone"
+msgstr "Affiche la date actuelle dans un fuseau horaire donné"
+
+#: datetimerunner.cpp:39
+#, kde-format
+msgid "Displays the current time"
+msgstr "Affiche l'heure actuelle"
+
+#: datetimerunner.cpp:40
+#, kde-format
+msgid "Displays the current time in a given timezone"
+msgstr "Affiche l'heure actuelle dans un fuseau horaire donné"
+
+#: datetimerunner.cpp:52
+#, kde-format
+msgid "Today's date is %1"
+msgstr "La date d'aujourd'hui est %1"
+
+#: datetimerunner.cpp:62
+#, kde-format
+msgid "Current time is %1"
+msgstr "Il est %1"

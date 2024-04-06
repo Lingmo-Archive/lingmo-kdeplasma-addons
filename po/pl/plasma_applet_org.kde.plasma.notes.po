@@ -1,0 +1,208 @@
+# translation of plasma_applet_notes.po to
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Adrian Łubik <adrian5632@gmail.com>, 2007.
+# Marta Rybczyńska <kde-i18n@rybczynska.net>, 2007, 2008.
+# Maciej Wikło <maciej.wiklo@wp.pl>, 2008, 2010.
+# Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>, 2015, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_notes\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2020-05-16 08:53+0200\n"
+"Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
+"Language-Team: Polish <kde-i18n-doc@kde.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.07.70\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "Wygląd"
+
+#: package/contents/ui/configAppearance.qml:61
+#, kde-format
+msgid "A white sticky note"
+msgstr "Biała karteczka"
+
+#: package/contents/ui/configAppearance.qml:62
+#, kde-format
+msgid "A black sticky note"
+msgstr "Czarna karteczka"
+
+#: package/contents/ui/configAppearance.qml:63
+#, kde-format
+msgid "A red sticky note"
+msgstr "Czerwona karteczka"
+
+#: package/contents/ui/configAppearance.qml:64
+#, kde-format
+msgid "An orange sticky note"
+msgstr "Pomarańczowa karteczka"
+
+#: package/contents/ui/configAppearance.qml:65
+#, kde-format
+msgid "A yellow sticky note"
+msgstr "Żółta karteczka"
+
+#: package/contents/ui/configAppearance.qml:66
+#, kde-format
+msgid "A green sticky note"
+msgstr "Zielona karteczka"
+
+#: package/contents/ui/configAppearance.qml:67
+#, kde-format
+msgid "A blue sticky note"
+msgstr "Niebieska karteczka"
+
+#: package/contents/ui/configAppearance.qml:68
+#, kde-format
+msgid "A pink sticky note"
+msgstr "Różowa karteczka"
+
+#: package/contents/ui/configAppearance.qml:69
+#, kde-format
+msgid "A translucent sticky note"
+msgstr "Przezroczysta karteczka"
+
+#: package/contents/ui/configAppearance.qml:70
+#, kde-format
+msgid "A translucent sticky note with light text"
+msgstr "Przezroczysta karteczka z jasnym tekstem"
+
+#: package/contents/ui/main.qml:231
+#, kde-format
+msgid "Undo"
+msgstr "Cofnij"
+
+#: package/contents/ui/main.qml:239
+#, kde-format
+msgid "Redo"
+msgstr "Przywróć"
+
+#: package/contents/ui/main.qml:249
+#, kde-format
+msgid "Cut"
+msgstr "Wytnij"
+
+#: package/contents/ui/main.qml:257
+#, kde-format
+msgid "Copy"
+msgstr "Skopiuj"
+
+#: package/contents/ui/main.qml:265
+#, kde-format
+msgid "Paste Without Formatting"
+msgstr "Wklej bez formatowania"
+
+#: package/contents/ui/main.qml:271
+#, kde-format
+msgid "Paste"
+msgstr "Wklej"
+
+#: package/contents/ui/main.qml:280
+#, kde-format
+msgid "Delete"
+msgstr "Usuń"
+
+#: package/contents/ui/main.qml:287
+#, kde-format
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: package/contents/ui/main.qml:297
+#, kde-format
+msgid "Select All"
+msgstr "Zaznacz wszystko"
+
+#: package/contents/ui/main.qml:382
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Bold"
+msgstr "Pogrubienie"
+
+#: package/contents/ui/main.qml:395
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Italic"
+msgstr "Pochylenie"
+
+#: package/contents/ui/main.qml:408
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Underline"
+msgstr "Podkreślenie"
+
+#: package/contents/ui/main.qml:421
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Strikethrough"
+msgstr "Przekreślenie"
+
+#: package/contents/ui/main.qml:462
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "White"
+msgstr "Biała"
+
+#: package/contents/ui/main.qml:463
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Black"
+msgstr "Czarna"
+
+#: package/contents/ui/main.qml:464
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Red"
+msgstr "Czerwona"
+
+#: package/contents/ui/main.qml:465
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Orange"
+msgstr "Pomarańczowa"
+
+#: package/contents/ui/main.qml:466
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Yellow"
+msgstr "Żółta"
+
+#: package/contents/ui/main.qml:467
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Green"
+msgstr "Zielona"
+
+#: package/contents/ui/main.qml:468
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Blue"
+msgstr "Niebieska"
+
+#: package/contents/ui/main.qml:469
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Pink"
+msgstr "Różowa"
+
+#: package/contents/ui/main.qml:470
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent"
+msgstr "Przezroczysta"
+
+#: package/contents/ui/main.qml:471
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent Light"
+msgstr "Przezroczysta lekka"

@@ -1,0 +1,253 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrej Mernik <andrejm@ubuntu.si>, 2014, 2015, 2017.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-30 03:36+0100\n"
+"PO-Revision-Date: 2020-01-23 16:07+0100\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Translator: Andrej Mernik <andrejm@ubuntu.si>\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "Splošno"
+
+#: package/contents/config/config.qml:32
+#, kde-format
+msgctxt "@title"
+msgid "Colors"
+msgstr "Barve"
+
+#: package/contents/ui/ColorSettings.qml:44
+#, kde-format
+msgctxt "@option:check"
+msgid "Set Colors Manually"
+msgstr "Ročno nastavi barve"
+
+#: package/contents/ui/ColorSettings.qml:49
+#, kde-format
+msgctxt "@title:group"
+msgid "CPU"
+msgstr "CPE"
+
+#: package/contents/ui/ColorSettings.qml:56
+#, kde-format
+msgctxt "@label:chooser"
+msgid "User:"
+msgstr "Uporabnik:"
+
+#: package/contents/ui/ColorSettings.qml:62
+#, kde-format
+msgctxt "@label:chooser"
+msgid "IOWait:"
+msgstr "Čakanje na V/I:"
+
+#: package/contents/ui/ColorSettings.qml:68
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Sys:"
+msgstr "Sistem:"
+
+#: package/contents/ui/ColorSettings.qml:74
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Nice:"
+msgstr "Nice:"
+
+#: package/contents/ui/ColorSettings.qml:81
+#, kde-format
+msgctxt "@title:group"
+msgid "Memory"
+msgstr "Pomnilnik"
+
+#: package/contents/ui/ColorSettings.qml:88
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Application:"
+msgstr "Program:"
+
+#: package/contents/ui/ColorSettings.qml:94
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Buffers:"
+msgstr "Medpomnilniki:"
+
+#: package/contents/ui/ColorSettings.qml:101
+#, kde-format
+msgctxt "@title:group"
+msgid "Swap"
+msgstr "Izmenjevalni pomnilnik"
+
+#: package/contents/ui/ColorSettings.qml:108
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Used swap:"
+msgstr "Uporabljen izmenjevalni pomnilnik:"
+
+#: package/contents/ui/ColorSettings.qml:115
+#, kde-format
+msgctxt "@title:group"
+msgid "Cache"
+msgstr "Predpomnilnik"
+
+#: package/contents/ui/ColorSettings.qml:122
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Dirty memory:"
+msgstr "Neočiščen pomnilnik:"
+
+#: package/contents/ui/ColorSettings.qml:128
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Writeback memory:"
+msgstr "Pomnilnik »zapiši nazaj« (writeback):"
+
+#: package/contents/ui/GeneralSettings.qml:47
+#, kde-format
+msgctxt "@label"
+msgid "Show:"
+msgstr "Pokaži:"
+
+#: package/contents/ui/GeneralSettings.qml:49
+#, kde-format
+msgctxt "@option:check"
+msgid "CPU monitor"
+msgstr "Nadzornik procesorja"
+
+#: package/contents/ui/GeneralSettings.qml:64
+#, kde-format
+msgctxt "@option:check"
+msgid "CPUs separately"
+msgstr "Ločene CPE"
+
+#: package/contents/ui/GeneralSettings.qml:71
+#, kde-format
+msgctxt "@option:check"
+msgid "Memory monitor"
+msgstr "Nadzornik pomnilnika"
+
+#: package/contents/ui/GeneralSettings.qml:76
+#, kde-format
+msgctxt "@option:check"
+msgid "Swap monitor"
+msgstr "Nadzornik izmenjevalnega pomnilnika"
+
+#: package/contents/ui/GeneralSettings.qml:81
+#, kde-format
+msgctxt "@option:check"
+msgid "Cache monitor"
+msgstr "Nadzornik predpomnilnika"
+
+#: package/contents/ui/GeneralSettings.qml:94
+#, kde-format
+msgctxt "@label"
+msgid "Monitor type:"
+msgstr "Vrsta nadzornika:"
+
+#: package/contents/ui/GeneralSettings.qml:96
+#, kde-format
+msgctxt "@option:radio"
+msgid "Bar"
+msgstr "Stolpec"
+
+#: package/contents/ui/GeneralSettings.qml:106
+#, kde-format
+msgctxt "@option:radio"
+msgid "Circular"
+msgstr "Krožno"
+
+#: package/contents/ui/GeneralSettings.qml:116
+#, kde-format
+msgctxt "@option:radio"
+msgid "Compact bar"
+msgstr "Strnjena vrstica"
+
+#: package/contents/ui/GeneralSettings.qml:133
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Update interval:"
+msgstr "Interval med posodobitvami:"
+
+#: package/contents/ui/GeneralSettings.qml:138
+#, kde-format
+msgctxt "@item:valuesuffix spacing to number + unit (seconds)"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] " sekunda"
+msgstr[1] " sekundi"
+msgstr[2] " sekunde"
+msgstr[3] " sekund"
+
+#: package/contents/ui/SystemLoadViewer.qml:231
+#, kde-format
+msgid "CPU%1: %2% @ %3 Mhz"
+msgstr "CPE%1: %2 % @ %3 MHz"
+
+#: package/contents/ui/SystemLoadViewer.qml:239
+#, kde-format
+msgid "CPU: %1%"
+msgstr "CPE: %1 %"
+
+#: package/contents/ui/SystemLoadViewer.qml:240
+#, kde-format
+msgid "Average clock: %1 MHz"
+msgstr "Povprečna frekvenca: %1 MHz"
+
+#: package/contents/ui/SystemLoadViewer.qml:246
+#, kde-format
+msgid "Memory: %1/%2 MiB"
+msgstr "Pomnilnik: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:251
+#, kde-format
+msgid "Swap: %1/%2 MiB"
+msgstr "Izmenjevalni pomnilnik: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:255
+#, kde-format
+msgid "Cache Dirty, Writeback: %1 MiB, %2 MiB"
+msgstr "Neočiščen predpomnilnik, Writeback: %1 MiB, %2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:368
+#, kde-format
+msgid "System load"
+msgstr "Obremenitev sistema"
+
+#: package/contents/ui/SystemLoadViewer.qml:447
+#, kde-format
+msgid "CPU %1"
+msgstr "CPE %1"
+
+#: package/contents/ui/SystemLoadViewer.qml:480
+#, kde-format
+msgid "CPU"
+msgstr "CPE"
+
+#: package/contents/ui/SystemLoadViewer.qml:502
+#, kde-format
+msgid "Memory"
+msgstr "Pomnilnik"
+
+#: package/contents/ui/SystemLoadViewer.qml:524
+#, kde-format
+msgid "Swap"
+msgstr "Izmenjevalni pomnilnik"
+
+#: package/contents/ui/SystemLoadViewer.qml:546
+#, kde-format
+msgid "Cache"
+msgstr "Predpomnilnik"

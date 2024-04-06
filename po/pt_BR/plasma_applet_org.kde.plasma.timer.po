@@ -1,0 +1,133 @@
+# Translation of plasma_applet_org.kde.plasma.timer.po to Brazilian Portuguese
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# André Marcelo Alvarenga <alvarenga@kde.org>, 2014, 2015, 2019.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.timer\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2019-06-04 23:01-0300\n"
+"Last-Translator: André Marcelo Alvarenga <alvarenga@kde.org>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@kde.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 19.04.1\n"
+
+#: package/contents/config/config.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "Aparência"
+
+#: package/contents/config/config.qml:31
+#, kde-format
+msgctxt "@title"
+msgid "Advanced"
+msgstr "Avançado"
+
+#: package/contents/ui/configAdvanced.qml:34
+#, kde-format
+msgctxt "@title:label"
+msgid "After timer completes:"
+msgstr "Após terminar o temporizador:"
+
+#: package/contents/ui/configAdvanced.qml:38
+#, kde-format
+msgctxt "@option:check"
+msgid "Execute command:"
+msgstr "Executar comando:"
+
+#: package/contents/ui/configAppearance.qml:39
+#, kde-format
+msgctxt "@title:label"
+msgid "Display:"
+msgstr "Visor:"
+
+#: package/contents/ui/configAppearance.qml:45
+#, kde-format
+msgctxt "@option:check"
+msgid "Show title:"
+msgstr "Mostrar título:"
+
+#: package/contents/ui/configAppearance.qml:62
+#, kde-format
+msgctxt "@option:check"
+msgid "Show seconds"
+msgstr "Mostrar segundos"
+
+#: package/contents/ui/configAppearance.qml:74
+#, kde-format
+msgctxt "@title:label"
+msgid "Notifications:"
+msgstr "Notificações:"
+
+#: package/contents/ui/configAppearance.qml:78
+#, kde-format
+msgctxt "@option:check"
+msgid "Show notification text:"
+msgstr "Mostrar texto da notificação"
+
+#: package/contents/ui/main.qml:53 package/contents/ui/main.qml:114
+#, kde-format
+msgid "Timer"
+msgstr "Temporizador"
+
+#: package/contents/ui/main.qml:58
+#, kde-format
+msgid "%1 is running"
+msgstr "%1 está em execução"
+
+#: package/contents/ui/main.qml:60
+#, kde-format
+msgid "%1 not running"
+msgstr "%1 não está em execução"
+
+#: package/contents/ui/main.qml:64
+#, kde-format
+msgid "Remaining time left: %1 second"
+msgid_plural "Remaining time left: %1 seconds"
+msgstr[0] "Tempo restante: %1 segundo"
+msgstr[1] "Tempo restante: %1 segundos"
+
+#: package/contents/ui/main.qml:116
+#, kde-format
+msgid "Timer finished"
+msgstr "O temporizador terminou"
+
+#: package/contents/ui/main.qml:124
+#, kde-format
+msgctxt "@action"
+msgid "&Start"
+msgstr "&Iniciar"
+
+#: package/contents/ui/main.qml:125
+#, kde-format
+msgctxt "@action"
+msgid "S&top"
+msgstr "&Parar"
+
+#: package/contents/ui/main.qml:126
+#, kde-format
+msgctxt "@action"
+msgid "&Reset"
+msgstr "&Reiniciar"
+
+#: package/contents/ui/TimerView.qml:138
+#, kde-format
+msgid "Timer is running"
+msgstr "O temporizador está em execução"
+
+#: package/contents/ui/TimerView.qml:138
+#, kde-format
+msgid ""
+"Use mouse wheel to change digits or choose from predefined timers in the "
+"context menu"
+msgstr ""
+"Use a roda do mouse para mudar os dígitos ou escolher os temporizadores "
+"predefinidos no menu de contexto"

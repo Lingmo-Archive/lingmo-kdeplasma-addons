@@ -1,0 +1,205 @@
+# translation of plasma_applet_notes.po to Slovak
+# Jozef Vydra <vydrajojo@gmail.com>, 2008.
+# Michal Sulek <misurel@gmail.com>, 2009.
+# Roman Paholik <wizzardsk@gmail.com>, 2015.
+# Mthw <jari_45@hotmail.com>, 2018.
+# Matej Mrenica <matejm98mthw@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_notes\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2019-09-13 17:35+0200\n"
+"Last-Translator: Matej Mrenica <matejm98mthw@gmail.com>\n"
+"Language-Team: Slovak <kde-i18n-doc@kde.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.08.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "Vzhľad"
+
+#: package/contents/ui/configAppearance.qml:61
+#, kde-format
+msgid "A white sticky note"
+msgstr "Biela nálepka"
+
+#: package/contents/ui/configAppearance.qml:62
+#, kde-format
+msgid "A black sticky note"
+msgstr "Čierna nálepka"
+
+#: package/contents/ui/configAppearance.qml:63
+#, kde-format
+msgid "A red sticky note"
+msgstr "Červená nálepka"
+
+#: package/contents/ui/configAppearance.qml:64
+#, kde-format
+msgid "An orange sticky note"
+msgstr "Oranžová nálepka"
+
+#: package/contents/ui/configAppearance.qml:65
+#, kde-format
+msgid "A yellow sticky note"
+msgstr "Žltá nálepka"
+
+#: package/contents/ui/configAppearance.qml:66
+#, kde-format
+msgid "A green sticky note"
+msgstr "Zelená nálepka"
+
+#: package/contents/ui/configAppearance.qml:67
+#, kde-format
+msgid "A blue sticky note"
+msgstr "Modrá nálepka"
+
+#: package/contents/ui/configAppearance.qml:68
+#, kde-format
+msgid "A pink sticky note"
+msgstr "Ružová nálepka"
+
+#: package/contents/ui/configAppearance.qml:69
+#, kde-format
+msgid "A translucent sticky note"
+msgstr "Priesvitná nálepka"
+
+#: package/contents/ui/configAppearance.qml:70
+#, kde-format
+msgid "A translucent sticky note with light text"
+msgstr "Priesvitná nálepka so svetlým textom"
+
+#: package/contents/ui/main.qml:231
+#, kde-format
+msgid "Undo"
+msgstr "Vrátiť"
+
+#: package/contents/ui/main.qml:239
+#, kde-format
+msgid "Redo"
+msgstr "Opakovať"
+
+#: package/contents/ui/main.qml:249
+#, kde-format
+msgid "Cut"
+msgstr "Vystrihnúť"
+
+#: package/contents/ui/main.qml:257
+#, kde-format
+msgid "Copy"
+msgstr "Kopírovať"
+
+#: package/contents/ui/main.qml:265
+#, kde-format
+msgid "Paste Without Formatting"
+msgstr "Vložiť bez formátovania"
+
+#: package/contents/ui/main.qml:271
+#, kde-format
+msgid "Paste"
+msgstr "Vložiť"
+
+#: package/contents/ui/main.qml:280
+#, kde-format
+msgid "Delete"
+msgstr "Vymazať"
+
+#: package/contents/ui/main.qml:287
+#, kde-format
+msgid "Clear"
+msgstr "Vyčistiť"
+
+#: package/contents/ui/main.qml:297
+#, kde-format
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+#: package/contents/ui/main.qml:382
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Bold"
+msgstr "Tučné"
+
+#: package/contents/ui/main.qml:395
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Italic"
+msgstr "Kurzíva"
+
+#: package/contents/ui/main.qml:408
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Underline"
+msgstr "Podčiarknuté"
+
+#: package/contents/ui/main.qml:421
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Strikethrough"
+msgstr "Prečiarknuté"
+
+#: package/contents/ui/main.qml:462
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "White"
+msgstr "Biela"
+
+#: package/contents/ui/main.qml:463
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Black"
+msgstr "Čierna"
+
+#: package/contents/ui/main.qml:464
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Red"
+msgstr "Červena"
+
+#: package/contents/ui/main.qml:465
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Orange"
+msgstr "Oranžová"
+
+#: package/contents/ui/main.qml:466
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Yellow"
+msgstr "Žltá"
+
+#: package/contents/ui/main.qml:467
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Green"
+msgstr "Zelená"
+
+#: package/contents/ui/main.qml:468
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Blue"
+msgstr "Modrá"
+
+#: package/contents/ui/main.qml:469
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Pink"
+msgstr "Ružová"
+
+#: package/contents/ui/main.qml:470
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent"
+msgstr "Priesvitná"
+
+#: package/contents/ui/main.qml:471
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent Light"
+msgstr "Priesvitná svetlá"

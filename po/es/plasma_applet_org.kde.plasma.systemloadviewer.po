@@ -1,0 +1,249 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Javier Vinal <fjvinal@gmail.com>, 2014.
+# Eloy Cuadra <ecuadra@eloihr.net>, 2015, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-30 03:36+0100\n"
+"PO-Revision-Date: 2019-05-09 19:53+0200\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.0\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "General"
+
+#: package/contents/config/config.qml:32
+#, kde-format
+msgctxt "@title"
+msgid "Colors"
+msgstr "Colores"
+
+#: package/contents/ui/ColorSettings.qml:44
+#, kde-format
+msgctxt "@option:check"
+msgid "Set Colors Manually"
+msgstr "Ajustar colores manualmente"
+
+#: package/contents/ui/ColorSettings.qml:49
+#, kde-format
+msgctxt "@title:group"
+msgid "CPU"
+msgstr "CPU"
+
+#: package/contents/ui/ColorSettings.qml:56
+#, kde-format
+msgctxt "@label:chooser"
+msgid "User:"
+msgstr "Usuario:"
+
+#: package/contents/ui/ColorSettings.qml:62
+#, kde-format
+msgctxt "@label:chooser"
+msgid "IOWait:"
+msgstr "Espera de E/S:"
+
+#: package/contents/ui/ColorSettings.qml:68
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Sys:"
+msgstr "Sis:"
+
+#: package/contents/ui/ColorSettings.qml:74
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Nice:"
+msgstr "Prioridad (nice):"
+
+#: package/contents/ui/ColorSettings.qml:81
+#, kde-format
+msgctxt "@title:group"
+msgid "Memory"
+msgstr "Memoria"
+
+#: package/contents/ui/ColorSettings.qml:88
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Application:"
+msgstr "Aplicación:"
+
+#: package/contents/ui/ColorSettings.qml:94
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Buffers:"
+msgstr "Búferes:"
+
+#: package/contents/ui/ColorSettings.qml:101
+#, kde-format
+msgctxt "@title:group"
+msgid "Swap"
+msgstr "Intercambio"
+
+#: package/contents/ui/ColorSettings.qml:108
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Used swap:"
+msgstr "Intercambio usado:"
+
+#: package/contents/ui/ColorSettings.qml:115
+#, kde-format
+msgctxt "@title:group"
+msgid "Cache"
+msgstr "Caché"
+
+#: package/contents/ui/ColorSettings.qml:122
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Dirty memory:"
+msgstr "Memoria modificada:"
+
+#: package/contents/ui/ColorSettings.qml:128
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Writeback memory:"
+msgstr "Memoria de escritura diferida:"
+
+#: package/contents/ui/GeneralSettings.qml:47
+#, kde-format
+msgctxt "@label"
+msgid "Show:"
+msgstr "Mostrar:"
+
+#: package/contents/ui/GeneralSettings.qml:49
+#, kde-format
+msgctxt "@option:check"
+msgid "CPU monitor"
+msgstr "Monitor de la CPU"
+
+#: package/contents/ui/GeneralSettings.qml:64
+#, kde-format
+msgctxt "@option:check"
+msgid "CPUs separately"
+msgstr "CPU por separado"
+
+#: package/contents/ui/GeneralSettings.qml:71
+#, kde-format
+msgctxt "@option:check"
+msgid "Memory monitor"
+msgstr "Monitor de memoria"
+
+#: package/contents/ui/GeneralSettings.qml:76
+#, kde-format
+msgctxt "@option:check"
+msgid "Swap monitor"
+msgstr "Monitor de intercambio"
+
+#: package/contents/ui/GeneralSettings.qml:81
+#, kde-format
+msgctxt "@option:check"
+msgid "Cache monitor"
+msgstr "Monitor de la caché"
+
+#: package/contents/ui/GeneralSettings.qml:94
+#, kde-format
+msgctxt "@label"
+msgid "Monitor type:"
+msgstr "Tipo de monitor:"
+
+#: package/contents/ui/GeneralSettings.qml:96
+#, kde-format
+msgctxt "@option:radio"
+msgid "Bar"
+msgstr "Barra"
+
+#: package/contents/ui/GeneralSettings.qml:106
+#, kde-format
+msgctxt "@option:radio"
+msgid "Circular"
+msgstr "Circular"
+
+#: package/contents/ui/GeneralSettings.qml:116
+#, kde-format
+msgctxt "@option:radio"
+msgid "Compact bar"
+msgstr "Barra compacta"
+
+#: package/contents/ui/GeneralSettings.qml:133
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Update interval:"
+msgstr "Intervalo de refresco:"
+
+#: package/contents/ui/GeneralSettings.qml:138
+#, kde-format
+msgctxt "@item:valuesuffix spacing to number + unit (seconds)"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] " segundo"
+msgstr[1] " segundos"
+
+#: package/contents/ui/SystemLoadViewer.qml:231
+#, kde-format
+msgid "CPU%1: %2% @ %3 Mhz"
+msgstr "CPU%1: %2% @ %3 Mhz"
+
+#: package/contents/ui/SystemLoadViewer.qml:239
+#, kde-format
+msgid "CPU: %1%"
+msgstr "CPU: %1%"
+
+#: package/contents/ui/SystemLoadViewer.qml:240
+#, kde-format
+msgid "Average clock: %1 MHz"
+msgstr "Media de reloj: %1 MHz"
+
+#: package/contents/ui/SystemLoadViewer.qml:246
+#, kde-format
+msgid "Memory: %1/%2 MiB"
+msgstr "Memoria: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:251
+#, kde-format
+msgid "Swap: %1/%2 MiB"
+msgstr "Intercambio: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:255
+#, kde-format
+msgid "Cache Dirty, Writeback: %1 MiB, %2 MiB"
+msgstr "Caché modificada, escritura diferida: %1 MiB, %2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:368
+#, kde-format
+msgid "System load"
+msgstr "Carga del sistema"
+
+#: package/contents/ui/SystemLoadViewer.qml:447
+#, kde-format
+msgid "CPU %1"
+msgstr "CPU %1"
+
+#: package/contents/ui/SystemLoadViewer.qml:480
+#, kde-format
+msgid "CPU"
+msgstr "CPU"
+
+#: package/contents/ui/SystemLoadViewer.qml:502
+#, kde-format
+msgid "Memory"
+msgstr "Memoria"
+
+#: package/contents/ui/SystemLoadViewer.qml:524
+#, kde-format
+msgid "Swap"
+msgstr "Intercambio"
+
+#: package/contents/ui/SystemLoadViewer.qml:546
+#, kde-format
+msgid "Cache"
+msgstr "Caché"

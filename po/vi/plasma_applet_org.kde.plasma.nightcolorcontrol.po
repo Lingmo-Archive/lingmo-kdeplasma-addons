@@ -1,0 +1,53 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeplasma-addons package.
+#
+# Phu Hung Nguyen <phuhnguyen@disroot.org>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-16 02:34+0200\n"
+"PO-Revision-Date: 2020-12-04 15:12+0100\n"
+"Last-Translator: Phu Hung Nguyen <phuhnguyen@disroot.org>\n"
+"Language-Team: Vietnamese <kde-l10n-vi@kde.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: package/contents/ui/main.qml:42
+#, kde-format
+msgid "Night Color Control"
+msgstr "Điều khiển \"Màu buổi tối\""
+
+#: package/contents/ui/main.qml:45
+#, kde-format
+msgid "Night Color is inhibited"
+msgstr "Màu buổi tối đang bị ngăn cản"
+
+#: package/contents/ui/main.qml:48
+#, kde-format
+msgid "Night Color is unavailable"
+msgstr "Màu buổi tối hiện không có"
+
+#: package/contents/ui/main.qml:51
+#, kde-format
+msgid "Night Color is disabled"
+msgstr "Màu buổi tối đang bị tắt"
+
+#: package/contents/ui/main.qml:54
+#, kde-format
+msgid "Night Color is not running"
+msgstr "Màu buổi tối đang không chạy"
+
+#: package/contents/ui/main.qml:56
+#, kde-format
+msgid "Night Color is active (%1K)"
+msgstr "Màu buổi tối đang hoạt động (%1K)"
+
+#: package/contents/ui/main.qml:105
+#, kde-format
+msgid "Configure Night Color..."
+msgstr "Cấu hình \"Màu buổi tối\"..."

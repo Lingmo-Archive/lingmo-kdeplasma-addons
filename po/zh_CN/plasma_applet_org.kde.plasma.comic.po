@@ -1,0 +1,393 @@
+# translation of plasma_applet_comic.po to 简体中文
+# Copyright (C) 2007, 2008, 2009 Free Software Foundation, Inc.
+#
+# Liang Qi <cavendish.qi@gmail.com>, 2007.
+# Ni Hui <shuizhuyuanluo@126.com>, 2008, 2009, 2010, 2011.
+# Weng Xuetian <wengxt@gmail.com>, 2011, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-05 03:46+0100\n"
+"PO-Revision-Date: 2021-01-03 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/kdeplasma-addons/plasma_applet_org.kde."
+"plasma.comic.pot\n"
+"X-Crowdin-File-ID: 2732\n"
+
+#: comic.cpp:100
+#, kde-format
+msgctxt "@action comic strip"
+msgid "&Next Tab with a New Strip"
+msgstr "跳转到下一个有新连环画的标签(&N)"
+
+#: comic.cpp:107
+#, kde-format
+msgctxt "@action"
+msgid "Jump to &First Strip"
+msgstr "跳转到第一张连环画(&F)"
+
+#: comic.cpp:112
+#, kde-format
+msgctxt "@action"
+msgid "Jump to &Current Strip"
+msgstr "跳转到当前连环画(&C)"
+
+#: comic.cpp:117
+#, kde-format
+msgctxt "@action"
+msgid "Jump to Strip..."
+msgstr "跳转到连环画..."
+
+#: comic.cpp:121
+#, kde-format
+msgctxt "@action"
+msgid "Visit the Shop &Website"
+msgstr "访问网上商店(&W)"
+
+#: comic.cpp:127
+#, kde-format
+msgctxt "@action"
+msgid "&Save Comic As..."
+msgstr "连环画另存为(&S)..."
+
+#: comic.cpp:132
+#, kde-format
+msgctxt "@action"
+msgid "&Create Comic Book Archive..."
+msgstr "创建连环画归档(&C)..."
+
+#: comic.cpp:137
+#, kde-format
+msgctxt "@option:check Context menu of comic image"
+msgid "&Actual Size"
+msgstr "实际大小(&A)"
+
+#: comic.cpp:144
+#, kde-format
+msgctxt "@option:check Context menu of comic image"
+msgid "Store Current &Position"
+msgstr "保存当前位置(&P)"
+
+#: comic.cpp:236
+#, kde-format
+msgctxt "@title:window"
+msgid "Download Comics"
+msgstr "下载连环画"
+
+#: comic.cpp:476
+#, kde-format
+msgid "Archiving comic failed"
+msgstr "创建连环画归档失败"
+
+#: comicarchivedialog.cpp:31
+#, kde-format
+msgctxt "@title:window"
+msgid "Create %1 Comic Book Archive"
+msgstr "创建 %1 连环画归档"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: comicarchivedialog.ui:19
+#, kde-format
+msgid "Destination:"
+msgstr "目标："
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, dest)
+#: comicarchivedialog.ui:26
+#, kde-format
+msgid "*.cbz|Comic Book Archive (Zip)"
+msgstr "*.cbz|连环画归档(Zip)"
+
+#. i18n: ectx: property (statusTip), widget (QLabel, label)
+#: comicarchivedialog.ui:52
+#, kde-format
+msgid "The range of comic strips to archive."
+msgstr "归档的连环画范围。"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: comicarchivedialog.ui:55
+#, kde-format
+msgid "Range:"
+msgstr "范围："
+
+#. i18n: ectx: property (text), item, widget (KComboBox, archiveType)
+#: comicarchivedialog.ui:63
+#, kde-format
+msgid "All"
+msgstr "全部"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, archiveType)
+#: comicarchivedialog.ui:68
+#, kde-format
+msgid "From beginning to ..."
+msgstr "从开头到..."
+
+#. i18n: ectx: property (text), item, widget (KComboBox, archiveType)
+#: comicarchivedialog.ui:73
+#, kde-format
+msgid "From end to ..."
+msgstr "从结尾到..."
+
+#. i18n: ectx: property (text), item, widget (KComboBox, archiveType)
+#: comicarchivedialog.ui:78
+#, kde-format
+msgid "Manual range"
+msgstr "手动范围"
+
+#. i18n: ectx: property (text), widget (QLabel, fromDateLabel)
+#. i18n: ectx: property (text), widget (QLabel, fromNumberLabel)
+#. i18n: ectx: property (text), widget (QLabel, fromStringLabel)
+#: comicarchivedialog.ui:105 comicarchivedialog.ui:155
+#: comicarchivedialog.ui:199
+#, kde-format
+msgctxt "in a range: from to"
+msgid "From:"
+msgstr "从："
+
+#. i18n: ectx: property (text), widget (QLabel, toDateLabel)
+#. i18n: ectx: property (text), widget (QLabel, toNumberLabel)
+#. i18n: ectx: property (text), widget (QLabel, toStringLabel)
+#: comicarchivedialog.ui:112 comicarchivedialog.ui:162
+#: comicarchivedialog.ui:206
+#, kde-format
+msgctxt "in a range: from to"
+msgid "To:"
+msgstr "到："
+
+#. i18n: ectx: property (displayFormat), widget (QDateEdit, fromDate)
+#. i18n: ectx: property (displayFormat), widget (QDateEdit, toDate)
+#: comicarchivedialog.ui:119 comicarchivedialog.ui:129
+#, kde-format
+msgid "dd.MM.yyyy"
+msgstr "yyyy-MM-dd"
+
+#: comicarchivejob.cpp:136
+#, kde-format
+msgid "No zip file is existing, aborting."
+msgstr "zip 文件不存在，终止。"
+
+#: comicarchivejob.cpp:165
+#, kde-format
+msgid "An error happened for identifier %1."
+msgstr "标识符 %1 发生错误。"
+
+#: comicarchivejob.cpp:238
+#, kde-format
+msgid "Failed creating the file with identifier %1."
+msgstr "创建标识符为 %1 的文件失败。"
+
+#: comicarchivejob.cpp:342
+#, kde-format
+msgid "Creating Comic Book Archive"
+msgstr "创建连环画归档"
+
+#: comicarchivejob.cpp:370
+#, kde-format
+msgid "Failed adding a file to the archive."
+msgstr "将文件加入到归档失败。"
+
+#: comicarchivejob.cpp:390
+#, kde-format
+msgid "Could not create the archive at the specified location."
+msgstr "无法在指定地点创建归档。"
+
+#: comicdata.cpp:107
+#, kde-format
+msgctxt "an abbreviation for Number"
+msgid "# %1"
+msgstr "# %1"
+
+#: comicdata.cpp:136
+#, kde-format
+msgid "Getting comic strip failed:"
+msgstr "获取连环画失败："
+
+#: comicdata.cpp:138
+#, kde-format
+msgid ""
+"Maybe there is no Internet connection.\n"
+"Maybe the comic plugin is broken.\n"
+"Another reason might be that there is no comic for this day/number/string, "
+"so choosing a different one might work."
+msgstr ""
+"可能没有互联网连接。\n"
+"可能连环画插件已失效。\n"
+"还有个可能是今天/此数字/字符串没有相应的连环画， 所以另外选一个可能就行了。"
+
+#: comicdata.cpp:146
+#, kde-format
+msgid ""
+"\n"
+"\n"
+"Choose the previous strip to go to the last cached strip."
+msgstr ""
+"\n"
+"\n"
+"选择上一幅可转到最近缓存的连环画。"
+
+#: package/contents/config/config.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "常规"
+
+#: package/contents/config/config.qml:30
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "外观"
+
+#: package/contents/config/config.qml:35
+#, kde-format
+msgctxt "@title"
+msgid "Advanced"
+msgstr "高级"
+
+#: package/contents/ui/ComicBottomInfo.qml:71
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Jump to strip..."
+msgstr "跳转到连环画..."
+
+#: package/contents/ui/ComicBottomInfo.qml:111
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Visit the comic website"
+msgstr "访问连环画网站"
+
+#: package/contents/ui/configAdvanced.qml:48
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Comic cache:"
+msgstr "连环画缓存："
+
+#: package/contents/ui/configAdvanced.qml:57
+#, kde-format
+msgctxt "@item:valuesuffix spacing to number + unit"
+msgid "strip per comic"
+msgid_plural "strips per comic"
+msgstr[0] "每个漫画分章"
+
+#: package/contents/ui/configAdvanced.qml:63
+#, kde-format
+msgctxt "@option:check"
+msgid "Display error when downloading comic fails"
+msgstr "下载漫画失败时显示错误"
+
+#: package/contents/ui/configAppearance.qml:55
+#, kde-format
+msgctxt "Heading for showing various elements of a comic"
+msgid "Show:"
+msgstr "显示："
+
+#: package/contents/ui/configAppearance.qml:56
+#, kde-format
+msgctxt "@option:check"
+msgid "Comic title"
+msgstr "漫画标题"
+
+#: package/contents/ui/configAppearance.qml:62
+#, kde-format
+msgctxt "@option:check"
+msgid "Comic identifier"
+msgstr "漫画标识符"
+
+#: package/contents/ui/configAppearance.qml:68
+#, kde-format
+msgctxt "@option:check"
+msgid "Comic author"
+msgstr "漫画作者"
+
+#: package/contents/ui/configAppearance.qml:74
+#, kde-format
+msgctxt "@option:check"
+msgid "Comic URL"
+msgstr "漫画网址"
+
+#: package/contents/ui/configAppearance.qml:84
+#, kde-format
+msgid "Show navigation buttons:"
+msgstr "显示导航按钮:"
+
+#: package/contents/ui/configAppearance.qml:85
+#, kde-format
+msgctxt "@option:check"
+msgid "Always"
+msgstr "总是"
+
+#: package/contents/ui/configAppearance.qml:92
+#, kde-format
+msgctxt "@option:check"
+msgid "Only on hover"
+msgstr "仅悬停"
+
+#: package/contents/ui/configGeneral.qml:63
+#, kde-format
+msgctxt "@title:group"
+msgid "Comics:"
+msgstr "漫画："
+
+#: package/contents/ui/configGeneral.qml:83
+#, kde-format
+msgctxt "@action:button"
+msgid "Get New Comics..."
+msgstr "获得新连环画..."
+
+#: package/contents/ui/configGeneral.qml:89
+#, kde-format
+msgctxt "@option:check"
+msgid "Middle-click on comic to display at original size"
+msgstr "中键单击漫画以原尺寸显示"
+
+#: package/contents/ui/configGeneral.qml:98
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Check for new plugins every:"
+msgstr "检查新插件，每:"
+
+#: package/contents/ui/configGeneral.qml:107
+#, kde-format
+msgctxt "@item:valuesuffix spacing to number + unit"
+msgid "day"
+msgid_plural "days"
+msgstr[0] "日"
+
+#: package/contents/ui/configGeneral.qml:112
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Check for new comics every:"
+msgstr "检查新漫画，每:"
+
+#: package/contents/ui/configGeneral.qml:121
+#, kde-format
+msgctxt "@item:valuesuffix spacing to number + unit (minutes)"
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "分钟"
+
+#: stripselector.cpp:44 stripselector.cpp:114
+#, kde-format
+msgctxt "@title:window"
+msgid "Go to Strip"
+msgstr "转到连环画"
+
+#: stripselector.cpp:52
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "&Strip number:"
+msgstr "连环画数字(&S)："
+
+#: stripselector.cpp:115
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Strip identifier:"
+msgstr "连环画标识符："

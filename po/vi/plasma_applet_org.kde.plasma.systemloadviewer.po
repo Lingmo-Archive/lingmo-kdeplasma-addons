@@ -1,0 +1,247 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeplasma-addons package.
+#
+# Phu Hung Nguyen <phuhnguyen@disroot.org>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-30 03:36+0100\n"
+"PO-Revision-Date: 2020-12-04 13:29+0100\n"
+"Last-Translator: Phu Hung Nguyen <phuhnguyen@disroot.org>\n"
+"Language-Team: Vietnamese <kde-l10n-vi@kde.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "Chung"
+
+#: package/contents/config/config.qml:32
+#, kde-format
+msgctxt "@title"
+msgid "Colors"
+msgstr "Màu"
+
+#: package/contents/ui/ColorSettings.qml:44
+#, kde-format
+msgctxt "@option:check"
+msgid "Set Colors Manually"
+msgstr "Đặt màu thủ công"
+
+#: package/contents/ui/ColorSettings.qml:49
+#, kde-format
+msgctxt "@title:group"
+msgid "CPU"
+msgstr "CPU"
+
+#: package/contents/ui/ColorSettings.qml:56
+#, kde-format
+msgctxt "@label:chooser"
+msgid "User:"
+msgstr "Người dùng:"
+
+#: package/contents/ui/ColorSettings.qml:62
+#, kde-format
+msgctxt "@label:chooser"
+msgid "IOWait:"
+msgstr "Đợi vào/ra:"
+
+#: package/contents/ui/ColorSettings.qml:68
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Sys:"
+msgstr "Hệ thống:"
+
+#: package/contents/ui/ColorSettings.qml:74
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Nice:"
+msgstr "Độ ưu tiên:"
+
+#: package/contents/ui/ColorSettings.qml:81
+#, kde-format
+msgctxt "@title:group"
+msgid "Memory"
+msgstr "Bộ nhớ"
+
+#: package/contents/ui/ColorSettings.qml:88
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Application:"
+msgstr "Ứng dụng:"
+
+#: package/contents/ui/ColorSettings.qml:94
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Buffers:"
+msgstr "Bộ nhớ đệm:"
+
+#: package/contents/ui/ColorSettings.qml:101
+#, kde-format
+msgctxt "@title:group"
+msgid "Swap"
+msgstr "Vùng hoán đổi"
+
+#: package/contents/ui/ColorSettings.qml:108
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Used swap:"
+msgstr "Vùng hoán đổi đã dùng:"
+
+#: package/contents/ui/ColorSettings.qml:115
+#, kde-format
+msgctxt "@title:group"
+msgid "Cache"
+msgstr "Bộ nhớ sẵn"
+
+#: package/contents/ui/ColorSettings.qml:122
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Dirty memory:"
+msgstr "Phần nhớ bẩn:"
+
+#: package/contents/ui/ColorSettings.qml:128
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Writeback memory:"
+msgstr "Bộ nhớ ghi sau:"
+
+#: package/contents/ui/GeneralSettings.qml:47
+#, kde-format
+msgctxt "@label"
+msgid "Show:"
+msgstr "Hiện:"
+
+#: package/contents/ui/GeneralSettings.qml:49
+#, kde-format
+msgctxt "@option:check"
+msgid "CPU monitor"
+msgstr "Giám sát CPU"
+
+#: package/contents/ui/GeneralSettings.qml:64
+#, kde-format
+msgctxt "@option:check"
+msgid "CPUs separately"
+msgstr "Các CPU riêng rẽ"
+
+#: package/contents/ui/GeneralSettings.qml:71
+#, kde-format
+msgctxt "@option:check"
+msgid "Memory monitor"
+msgstr "Giám sát bộ nhớ"
+
+#: package/contents/ui/GeneralSettings.qml:76
+#, kde-format
+msgctxt "@option:check"
+msgid "Swap monitor"
+msgstr "Giám sát vùng hoán đổi"
+
+#: package/contents/ui/GeneralSettings.qml:81
+#, kde-format
+msgctxt "@option:check"
+msgid "Cache monitor"
+msgstr "Giám sát bộ nhớ sẵn"
+
+#: package/contents/ui/GeneralSettings.qml:94
+#, kde-format
+msgctxt "@label"
+msgid "Monitor type:"
+msgstr "Dạng giám sát:"
+
+#: package/contents/ui/GeneralSettings.qml:96
+#, kde-format
+msgctxt "@option:radio"
+msgid "Bar"
+msgstr "Thanh"
+
+#: package/contents/ui/GeneralSettings.qml:106
+#, kde-format
+msgctxt "@option:radio"
+msgid "Circular"
+msgstr "Vòng tròn"
+
+#: package/contents/ui/GeneralSettings.qml:116
+#, kde-format
+msgctxt "@option:radio"
+msgid "Compact bar"
+msgstr "Thanh gọn"
+
+#: package/contents/ui/GeneralSettings.qml:133
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Update interval:"
+msgstr "Khoảng cập nhật:"
+
+#: package/contents/ui/GeneralSettings.qml:138
+#, kde-format
+msgctxt "@item:valuesuffix spacing to number + unit (seconds)"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] " giây"
+
+#: package/contents/ui/SystemLoadViewer.qml:231
+#, kde-format
+msgid "CPU%1: %2% @ %3 Mhz"
+msgstr "CPU%1: %2% @ %3 Mhz"
+
+#: package/contents/ui/SystemLoadViewer.qml:239
+#, kde-format
+msgid "CPU: %1%"
+msgstr "CPU: %1%"
+
+#: package/contents/ui/SystemLoadViewer.qml:240
+#, kde-format
+msgid "Average clock: %1 MHz"
+msgstr "Xung nhịp trung bình: %1 MHz"
+
+#: package/contents/ui/SystemLoadViewer.qml:246
+#, kde-format
+msgid "Memory: %1/%2 MiB"
+msgstr "Bộ nhớ: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:251
+#, kde-format
+msgid "Swap: %1/%2 MiB"
+msgstr "Vùng hoán đổi: %1/%2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:255
+#, kde-format
+msgid "Cache Dirty, Writeback: %1 MiB, %2 MiB"
+msgstr "Bộ nhớ sẵn bẩn, ghi sau: %1 MiB, %2 MiB"
+
+#: package/contents/ui/SystemLoadViewer.qml:368
+#, kde-format
+msgid "System load"
+msgstr "Tải hệ thống"
+
+#: package/contents/ui/SystemLoadViewer.qml:447
+#, kde-format
+msgid "CPU %1"
+msgstr "CPU %1"
+
+#: package/contents/ui/SystemLoadViewer.qml:480
+#, kde-format
+msgid "CPU"
+msgstr "CPU"
+
+#: package/contents/ui/SystemLoadViewer.qml:502
+#, kde-format
+msgid "Memory"
+msgstr "Bộ nhớ"
+
+#: package/contents/ui/SystemLoadViewer.qml:524
+#, kde-format
+msgid "Swap"
+msgstr "Vùng hoán đổi"
+
+#: package/contents/ui/SystemLoadViewer.qml:546
+#, kde-format
+msgid "Cache"
+msgstr "Bộ nhớ sẵn"

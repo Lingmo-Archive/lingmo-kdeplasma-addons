@@ -1,0 +1,205 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Martin Schlander <mschlander@opensuse.org>, 2016, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2019-11-22 20:56+0100\n"
+"Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
+"Language-Team: Danish <kde-i18n-doc@kde.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 18.12.3\n"
+
+#: package/contents/config/config.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "Generelt"
+
+#: package/contents/config/config.qml:30
+#, kde-format
+msgctxt "@title"
+msgid "Paths"
+msgstr "Stier"
+
+#: package/contents/ui/ConfigGeneral.qml:61
+#, kde-format
+msgid "Change picture every:"
+msgstr "Skift billede hver:"
+
+#: package/contents/ui/ConfigGeneral.qml:78
+#, kde-format
+msgid "Hours"
+msgstr "Timer"
+
+#: package/contents/ui/ConfigGeneral.qml:92
+#, kde-format
+msgid "Minutes"
+msgstr "Minutter"
+
+#: package/contents/ui/ConfigGeneral.qml:106
+#, kde-format
+msgid "Seconds"
+msgstr "Sekunder"
+
+#: package/contents/ui/ConfigGeneral.qml:116
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Image fill mode:"
+msgstr "Billedets udfyldningstilstand:"
+
+#: package/contents/ui/ConfigGeneral.qml:123
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Stretch"
+msgstr "Stræk"
+
+#: package/contents/ui/ConfigGeneral.qml:124
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled to fit the frame"
+msgstr "Billedet skaleres for at passe til rammen"
+
+#: package/contents/ui/ConfigGeneral.qml:128
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Preserve aspect fit"
+msgstr "Bevar aspektforhold"
+
+#: package/contents/ui/ConfigGeneral.qml:129
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled uniformly to fit without cropping"
+msgstr "Billedet skaleres ensartet for at passe uden beskæring"
+
+#: package/contents/ui/ConfigGeneral.qml:133
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Preserve aspect crop"
+msgstr "Bevar aspektbeskæring"
+
+#: package/contents/ui/ConfigGeneral.qml:134
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled uniformly to fill, cropping if necessary"
+msgstr "Billedet skaleres ensartet for at passe, med beskæring om nødvendigt"
+
+#: package/contents/ui/ConfigGeneral.qml:138
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile"
+msgstr "Fliselæg"
+
+#: package/contents/ui/ConfigGeneral.qml:139
+#, kde-format
+msgctxt "@info"
+msgid "The image is duplicated horizontally and vertically"
+msgstr "Billedet mangfoldiggøres vandret og lodret"
+
+#: package/contents/ui/ConfigGeneral.qml:143
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile vertically"
+msgstr "Fliseudlæg lodret"
+
+#: package/contents/ui/ConfigGeneral.qml:144
+#, kde-format
+msgctxt "@info"
+msgid "The image is stretched horizontally and tiled vertically"
+msgstr "Billedet strækkes vandret, og fliseudlægges lodret"
+
+#: package/contents/ui/ConfigGeneral.qml:148
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile horizontally"
+msgstr "Fliseudlæg vandret"
+
+#: package/contents/ui/ConfigGeneral.qml:149
+#, kde-format
+msgctxt "@info"
+msgid "The image is stretched vertically and tiled horizontally"
+msgstr "Billedet strækkes lodret, og fliseudlægges vandret"
+
+#: package/contents/ui/ConfigGeneral.qml:153
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Pad"
+msgstr "Margenafstand"
+
+#: package/contents/ui/ConfigGeneral.qml:154
+#, kde-format
+msgctxt "@info"
+msgid "The image is not transformed"
+msgstr "Billedet ændres ikke"
+
+#: package/contents/ui/ConfigGeneral.qml:199
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "General:"
+msgstr "Generelt:"
+
+#: package/contents/ui/ConfigGeneral.qml:200
+#, kde-format
+msgctxt "@option:check"
+msgid "Randomize order"
+msgstr "Tilfældig rækkefølge"
+
+#: package/contents/ui/ConfigGeneral.qml:205
+#, kde-format
+msgctxt "@option:check"
+msgid "Pause slideshow when cursor is over image"
+msgstr "Sæt diasshow på pause når markøren er over billedet"
+
+#: package/contents/ui/ConfigGeneral.qml:210
+#, kde-format
+msgctxt "@option:check"
+msgid "Show background frame"
+msgstr "Vis baggrundsramme"
+
+#: package/contents/ui/ConfigGeneral.qml:215
+#, kde-format
+msgctxt "@option:check"
+msgid "Click on image to open in external application"
+msgstr "Klik på billedet for at åbne i et eksternt program"
+
+#: package/contents/ui/ConfigPaths.qml:61
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Files"
+msgstr "Vælg filer"
+
+#: package/contents/ui/ConfigPaths.qml:87
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose a Folder"
+msgstr "Vælg en mappe"
+
+#: package/contents/ui/ConfigPaths.qml:135
+#, kde-format
+msgid "Remove path"
+msgstr "Fjern sti"
+
+#: package/contents/ui/ConfigPaths.qml:149
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Folder..."
+msgstr "Tilføj mappe..."
+
+#: package/contents/ui/ConfigPaths.qml:155
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Files..."
+msgstr "Tilføj filer..."
+
+#: package/contents/ui/main.qml:450
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure..."
+msgstr "Indstil..."

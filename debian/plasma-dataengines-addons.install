@@ -1,0 +1,15 @@
+usr/lib/*/libplasmacomicprovidercore.so.1
+usr/lib/*/libplasmacomicprovidercore.so.1.*
+usr/lib/*/libplasmapotdprovidercore.so.1
+usr/lib/*/libplasmapotdprovidercore.so.1.*
+usr/lib/*/qt5/plugins/kpackage/packagestructure/plasma_packagestructure_comic.so
+usr/lib/*/qt5/plugins/plasma/dataengine/plasma_engine_comic.so
+usr/lib/*/qt5/plugins/plasma/dataengine/plasma_engine_konsoleprofiles.so
+usr/lib/*/qt5/plugins/plasma/dataengine/plasma_engine_potd.so
+usr/lib/*/qt5/plugins/plasma_comic_krossprovider.so
+usr/lib/*/qt5/plugins/potd/
+usr/share/kservices5/plasma-dataengine-comic.desktop
+usr/share/kservices5/plasma-dataengine-konsoleprofiles.desktop
+usr/share/kservices5/plasma-dataengine-potd.desktop
+usr/share/kservicetypes5/plasma_comicprovider.desktop
+usr/share/plasma/services/org.kde.plasma.dataengine.konsoleprofiles.operations

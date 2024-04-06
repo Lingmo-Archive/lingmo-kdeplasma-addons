@@ -1,0 +1,235 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeplasma-addons package.
+#
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-19 03:35+0100\n"
+"PO-Revision-Date: 2020-06-10 16:35+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.12.2\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#: contents/ui/config.qml:70
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Provider:"
+msgstr "Ponudnik:"
+
+#: contents/ui/config.qml:81
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Category:"
+msgstr "Kategorija:"
+
+#: contents/ui/config.qml:84
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "All"
+msgstr "Vse"
+
+#: contents/ui/config.qml:88
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "1080p"
+msgstr "1080p"
+
+#: contents/ui/config.qml:92
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "4K"
+msgstr "4K"
+
+#: contents/ui/config.qml:96
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Ultra Wide"
+msgstr "Ultra široko"
+
+#: contents/ui/config.qml:100
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Background"
+msgstr "Ozadje"
+
+#: contents/ui/config.qml:104
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Lock Screen"
+msgstr "Zaklep zaslona"
+
+#: contents/ui/config.qml:108
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Nature"
+msgstr "Narava"
+
+#: contents/ui/config.qml:112
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: contents/ui/config.qml:116
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Black"
+msgstr "Črno"
+
+#: contents/ui/config.qml:120
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Flower"
+msgstr "Cvetlice"
+
+#: contents/ui/config.qml:124
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Funny"
+msgstr "Smešno"
+
+#: contents/ui/config.qml:128
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Cute"
+msgstr "Ljubko"
+
+#: contents/ui/config.qml:132
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Cool"
+msgstr "Cool"
+
+#: contents/ui/config.qml:136
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Fall"
+msgstr "Padec"
+
+#: contents/ui/config.qml:140
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Love"
+msgstr "Ljubezen"
+
+#: contents/ui/config.qml:144
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Design"
+msgstr "Design"
+
+#: contents/ui/config.qml:148
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Christmas"
+msgstr "Božič"
+
+#: contents/ui/config.qml:152
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Travel"
+msgstr "Potovanja"
+
+#: contents/ui/config.qml:156
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Beach"
+msgstr "Obala"
+
+#: contents/ui/config.qml:160
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Car"
+msgstr "Avtomobil"
+
+#: contents/ui/config.qml:164
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Sports"
+msgstr "Šport"
+
+#: contents/ui/config.qml:168
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Animal"
+msgstr "Žival"
+
+#: contents/ui/config.qml:172
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "People"
+msgstr "Ljudje"
+
+#: contents/ui/config.qml:176
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Music"
+msgstr "Glasba"
+
+#: contents/ui/config.qml:180
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Summer"
+msgstr "Poletje"
+
+#: contents/ui/config.qml:184
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Galaxy"
+msgstr "Galaksije"
+
+#: contents/ui/config.qml:203
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Positioning:"
+msgstr "Pozicioniranje:"
+
+#: contents/ui/config.qml:206
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled and Cropped"
+msgstr "Povečane in obrezane"
+
+#: contents/ui/config.qml:210
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled"
+msgstr "Povečane"
+
+#: contents/ui/config.qml:214
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled, Keep Proportions"
+msgstr "Povečane z obržanimi proporci"
+
+#: contents/ui/config.qml:218
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Centered"
+msgstr "Usredinjene"
+
+#: contents/ui/config.qml:222
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tiled"
+msgstr "Tlakovane"
+
+#: contents/ui/config.qml:243
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Background color:"
+msgstr "Barva ozadja:"
+
+#: contents/ui/config.qml:244
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Background Color"
+msgstr "Izbrana barva ozadja"

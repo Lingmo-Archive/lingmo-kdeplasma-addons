@@ -1,0 +1,205 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeplasma-addons package.
+# Wantoyo <wantoyek@gmail.com>, 2018, 2019, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2019-12-12 08:13+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.1\n"
+
+#: package/contents/config/config.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "Umum"
+
+#: package/contents/config/config.qml:30
+#, kde-format
+msgctxt "@title"
+msgid "Paths"
+msgstr "Alur"
+
+#: package/contents/ui/ConfigGeneral.qml:61
+#, kde-format
+msgid "Change picture every:"
+msgstr "Ubah gambar setiap:"
+
+#: package/contents/ui/ConfigGeneral.qml:78
+#, kde-format
+msgid "Hours"
+msgstr "Jam"
+
+#: package/contents/ui/ConfigGeneral.qml:92
+#, kde-format
+msgid "Minutes"
+msgstr "Menit"
+
+#: package/contents/ui/ConfigGeneral.qml:106
+#, kde-format
+msgid "Seconds"
+msgstr "Detik"
+
+#: package/contents/ui/ConfigGeneral.qml:116
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Image fill mode:"
+msgstr "Mode isian citra:"
+
+#: package/contents/ui/ConfigGeneral.qml:123
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Stretch"
+msgstr "Peregangan"
+
+#: package/contents/ui/ConfigGeneral.qml:124
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled to fit the frame"
+msgstr "Citra telah diskala ke pas dengan bingkai"
+
+#: package/contents/ui/ConfigGeneral.qml:128
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Preserve aspect fit"
+msgstr "Pertahankan aspek pas"
+
+#: package/contents/ui/ConfigGeneral.qml:129
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled uniformly to fit without cropping"
+msgstr "Citra diskala secara seragam agar pas tanpa memangkas"
+
+#: package/contents/ui/ConfigGeneral.qml:133
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Preserve aspect crop"
+msgstr "Pertahankan aspek pangkas"
+
+#: package/contents/ui/ConfigGeneral.qml:134
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled uniformly to fill, cropping if necessary"
+msgstr "Citra diskala secara seragam agar pas, pemangkasan jika diperlukan"
+
+#: package/contents/ui/ConfigGeneral.qml:138
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile"
+msgstr "Ubinkan"
+
+#: package/contents/ui/ConfigGeneral.qml:139
+#, kde-format
+msgctxt "@info"
+msgid "The image is duplicated horizontally and vertically"
+msgstr "Citra digandakan secara mendatar dan menegak"
+
+#: package/contents/ui/ConfigGeneral.qml:143
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile vertically"
+msgstr "Ubinkan secara menegak"
+
+#: package/contents/ui/ConfigGeneral.qml:144
+#, kde-format
+msgctxt "@info"
+msgid "The image is stretched horizontally and tiled vertically"
+msgstr "Citra diregangkan secara mendatar dan diubinkan secara menegak"
+
+#: package/contents/ui/ConfigGeneral.qml:148
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile horizontally"
+msgstr "Ubinkan secara mendatar"
+
+#: package/contents/ui/ConfigGeneral.qml:149
+#, kde-format
+msgctxt "@info"
+msgid "The image is stretched vertically and tiled horizontally"
+msgstr "Citra diregangkan secara menegak dan diubinkan secara mendatar"
+
+#: package/contents/ui/ConfigGeneral.qml:153
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Pad"
+msgstr "Pad"
+
+#: package/contents/ui/ConfigGeneral.qml:154
+#, kde-format
+msgctxt "@info"
+msgid "The image is not transformed"
+msgstr "Citra tidaklah diubah"
+
+#: package/contents/ui/ConfigGeneral.qml:199
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "General:"
+msgstr "Umum:"
+
+#: package/contents/ui/ConfigGeneral.qml:200
+#, kde-format
+msgctxt "@option:check"
+msgid "Randomize order"
+msgstr "Acakkan urutan"
+
+#: package/contents/ui/ConfigGeneral.qml:205
+#, kde-format
+msgctxt "@option:check"
+msgid "Pause slideshow when cursor is over image"
+msgstr "Jeda slideshow ketika kursor melintasi citra"
+
+#: package/contents/ui/ConfigGeneral.qml:210
+#, kde-format
+msgctxt "@option:check"
+msgid "Show background frame"
+msgstr "Tampilkan kerangka latarbelakang"
+
+#: package/contents/ui/ConfigGeneral.qml:215
+#, kde-format
+msgctxt "@option:check"
+msgid "Click on image to open in external application"
+msgstr "Klik pada citra untuk membuka di aplikasi eksternal"
+
+#: package/contents/ui/ConfigPaths.qml:61
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Files"
+msgstr "Memilih File"
+
+#: package/contents/ui/ConfigPaths.qml:87
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose a Folder"
+msgstr "Memilih Folder"
+
+#: package/contents/ui/ConfigPaths.qml:135
+#, kde-format
+msgid "Remove path"
+msgstr "Hapus alur"
+
+#: package/contents/ui/ConfigPaths.qml:149
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Folder..."
+msgstr "Tambah Folder..."
+
+#: package/contents/ui/ConfigPaths.qml:155
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Files..."
+msgstr "Tambah File..."
+
+#: package/contents/ui/main.qml:450
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure..."
+msgstr "Konfigurasikan..."

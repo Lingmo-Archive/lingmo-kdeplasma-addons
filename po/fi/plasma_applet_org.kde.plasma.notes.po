@@ -1,0 +1,211 @@
+# translation of plasma_applet_notes.po to Finnish
+# translation of plasma_applet_notes.po to
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Mikko Piippo <piippo@cc.helsinki.fi>, 2008.
+# Teemu Rytilahti <teemu.rytilahti@kde-fi.org>, 2008.
+# Teemu Rytilahti <teemu.rytilahti@d5k.net>, 2008.
+# Tommi Nieminen <translator@legisign.org>, 2010, 2018, 2019.
+# Lasse Liehu <lasse.liehu@gmail.com>, 2011, 2014, 2015.
+#
+# KDE Finnish translation sprint participants:
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_notes\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2019-10-14 19:29+0300\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-POT-Import-Date: 2012-12-01 22:25:24+0000\n"
+"X-Generator: Lokalize 18.12.3\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+#: package/contents/ui/configAppearance.qml:61
+#, kde-format
+msgid "A white sticky note"
+msgstr "Valkoinen muistilappu"
+
+#: package/contents/ui/configAppearance.qml:62
+#, kde-format
+msgid "A black sticky note"
+msgstr "Musta muistilappu"
+
+#: package/contents/ui/configAppearance.qml:63
+#, kde-format
+msgid "A red sticky note"
+msgstr "Punainen muistilappu"
+
+#: package/contents/ui/configAppearance.qml:64
+#, kde-format
+msgid "An orange sticky note"
+msgstr "Oranssi muistilappu"
+
+#: package/contents/ui/configAppearance.qml:65
+#, kde-format
+msgid "A yellow sticky note"
+msgstr "Keltainen muistilappu"
+
+#: package/contents/ui/configAppearance.qml:66
+#, kde-format
+msgid "A green sticky note"
+msgstr "Vihreä muistilappu"
+
+#: package/contents/ui/configAppearance.qml:67
+#, kde-format
+msgid "A blue sticky note"
+msgstr "Sininen muistilappu"
+
+#: package/contents/ui/configAppearance.qml:68
+#, kde-format
+msgid "A pink sticky note"
+msgstr "Vaaleanpunainen muistilappu"
+
+#: package/contents/ui/configAppearance.qml:69
+#, kde-format
+msgid "A translucent sticky note"
+msgstr "Läpikuultava muistilappu"
+
+#: package/contents/ui/configAppearance.qml:70
+#, kde-format
+msgid "A translucent sticky note with light text"
+msgstr "Läpikuultava muistilappu vaalealla tekstillä"
+
+#: package/contents/ui/main.qml:231
+#, kde-format
+msgid "Undo"
+msgstr "Kumoa"
+
+#: package/contents/ui/main.qml:239
+#, kde-format
+msgid "Redo"
+msgstr "Tee uudelleen"
+
+#: package/contents/ui/main.qml:249
+#, kde-format
+msgid "Cut"
+msgstr "Leikkaa"
+
+#: package/contents/ui/main.qml:257
+#, kde-format
+msgid "Copy"
+msgstr "Kopioi"
+
+#: package/contents/ui/main.qml:265
+#, kde-format
+msgid "Paste Without Formatting"
+msgstr "Liitä muotoiluitta"
+
+#: package/contents/ui/main.qml:271
+#, kde-format
+msgid "Paste"
+msgstr "Liitä"
+
+#: package/contents/ui/main.qml:280
+#, kde-format
+msgid "Delete"
+msgstr "Poista"
+
+#: package/contents/ui/main.qml:287
+#, kde-format
+msgid "Clear"
+msgstr "Tyhjennä"
+
+#: package/contents/ui/main.qml:297
+#, kde-format
+msgid "Select All"
+msgstr "Valitse kaikki"
+
+#: package/contents/ui/main.qml:382
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Bold"
+msgstr "Lihavointi"
+
+#: package/contents/ui/main.qml:395
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Italic"
+msgstr "Kursivointi"
+
+#: package/contents/ui/main.qml:408
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Underline"
+msgstr "Alleviivaus"
+
+#: package/contents/ui/main.qml:421
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Strikethrough"
+msgstr "Yliviivaus"
+
+#: package/contents/ui/main.qml:462
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "White"
+msgstr "Valkoinen"
+
+#: package/contents/ui/main.qml:463
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Black"
+msgstr "Musta"
+
+#: package/contents/ui/main.qml:464
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Red"
+msgstr "Punainen"
+
+#: package/contents/ui/main.qml:465
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Orange"
+msgstr "Oranssi"
+
+#: package/contents/ui/main.qml:466
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Yellow"
+msgstr "Keltainen"
+
+#: package/contents/ui/main.qml:467
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Green"
+msgstr "Vihreä"
+
+#: package/contents/ui/main.qml:468
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Blue"
+msgstr "Sininen"
+
+#: package/contents/ui/main.qml:469
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Pink"
+msgstr "Vaaleanpunainen"
+
+#: package/contents/ui/main.qml:470
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent"
+msgstr "Läpikuultava"
+
+#: package/contents/ui/main.qml:471
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent Light"
+msgstr "Vaalea läpikuultava"

@@ -1,0 +1,70 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Chetan Khona <chetan@kompkin.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"PO-Revision-Date: 2013-03-20 17:03+0530\n"
+"Last-Translator: Chetan Khona <chetan@kompkin.com>\n"
+"Language-Team: Marathi <kde-i18n-doc@kde.org>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: package/contents/config/config.qml:29
+#, fuzzy, kde-format
+#| msgid "Appearance"
+msgctxt "@title"
+msgid "Appearance"
+msgstr "दर्शनीयता"
+
+#: package/contents/ui/configGeneral.qml:47
+#, kde-format
+msgid "Display:"
+msgstr ""
+
+#: package/contents/ui/configGeneral.qml:48
+#: package/contents/ui/configGeneral.qml:102
+#, fuzzy, kde-format
+#| msgid "Grid:"
+msgctxt "@option:check"
+msgid "Grid"
+msgstr "जाळे :"
+
+#: package/contents/ui/configGeneral.qml:53
+#: package/contents/ui/configGeneral.qml:89
+#, kde-format
+msgctxt "@option:check"
+msgid "Inactive LEDs"
+msgstr ""
+
+#: package/contents/ui/configGeneral.qml:58
+#, fuzzy, kde-format
+#| msgid "Seconds:"
+msgctxt "@option:check"
+msgid "Seconds"
+msgstr "सेकंद :"
+
+#: package/contents/ui/configGeneral.qml:63
+#, kde-format
+msgctxt "@option:check"
+msgid "In BCD format (decimal)"
+msgstr ""
+
+#: package/contents/ui/configGeneral.qml:72
+#, fuzzy, kde-format
+#| msgid "Use custom grid color:"
+msgid "Use custom color for:"
+msgstr "ऐच्छिक जाळे रंग वापरा :"
+
+#: package/contents/ui/configGeneral.qml:76
+#, kde-format
+msgctxt "@option:check"
+msgid "Active LEDs"
+msgstr ""

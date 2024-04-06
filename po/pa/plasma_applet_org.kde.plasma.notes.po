@@ -1,0 +1,207 @@
+# translation of plasma_applet_notes.po to Punjabi
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# A S Alam <aalam@users.sf.net>, 2007, 2008, 2009, 2010, 2016, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_notes\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2018-11-08 22:44-0800\n"
+"Last-Translator: A S Alam <alam.yellow@gmail.com>\n"
+"Language-Team: Punjabi <punjabi-users@lists.sf.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "ਦਿੱਖ"
+
+#: package/contents/ui/configAppearance.qml:61
+#, kde-format
+msgid "A white sticky note"
+msgstr "ਚਿੱਟਾ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:62
+#, kde-format
+msgid "A black sticky note"
+msgstr "ਕਾਲਾ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:63
+#, kde-format
+msgid "A red sticky note"
+msgstr "ਲਾਲ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:64
+#, kde-format
+msgid "An orange sticky note"
+msgstr "ਸੰਤਰੀ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:65
+#, kde-format
+msgid "A yellow sticky note"
+msgstr "ਪੀਲਾ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:66
+#, kde-format
+msgid "A green sticky note"
+msgstr "ਹਰਾ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:67
+#, kde-format
+msgid "A blue sticky note"
+msgstr "ਨੀਲਾ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:68
+#, kde-format
+msgid "A pink sticky note"
+msgstr "ਗੁਲਾਬੀ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:69
+#, kde-format
+msgid "A translucent sticky note"
+msgstr "ਬਲੌਰੀ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/configAppearance.qml:70
+#, fuzzy, kde-format
+#| msgid "A translucent sticky note"
+msgid "A translucent sticky note with light text"
+msgstr "ਬਲੌਰੀ ਸਟਿੱਕੀ ਨੋਟ"
+
+#: package/contents/ui/main.qml:231
+#, kde-format
+msgid "Undo"
+msgstr ""
+
+#: package/contents/ui/main.qml:239
+#, kde-format
+msgid "Redo"
+msgstr ""
+
+#: package/contents/ui/main.qml:249
+#, kde-format
+msgid "Cut"
+msgstr ""
+
+#: package/contents/ui/main.qml:257
+#, kde-format
+msgid "Copy"
+msgstr ""
+
+#: package/contents/ui/main.qml:265
+#, kde-format
+msgid "Paste Without Formatting"
+msgstr ""
+
+#: package/contents/ui/main.qml:271
+#, kde-format
+msgid "Paste"
+msgstr ""
+
+#: package/contents/ui/main.qml:280
+#, kde-format
+msgid "Delete"
+msgstr ""
+
+#: package/contents/ui/main.qml:287
+#, kde-format
+msgid "Clear"
+msgstr ""
+
+#: package/contents/ui/main.qml:297
+#, kde-format
+msgid "Select All"
+msgstr ""
+
+#: package/contents/ui/main.qml:382
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Bold"
+msgstr "ਗੂੜ੍ਹਾ"
+
+#: package/contents/ui/main.qml:395
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Italic"
+msgstr "ਤਿਰਛਾ"
+
+#: package/contents/ui/main.qml:408
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Underline"
+msgstr "ਹੇਠਾਂ ਲਾਈਨ"
+
+#: package/contents/ui/main.qml:421
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Strikethrough"
+msgstr "ਵਿੰਨ੍ਹੇ"
+
+#: package/contents/ui/main.qml:462
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "White"
+msgstr "ਚਿੱਟਾ"
+
+#: package/contents/ui/main.qml:463
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Black"
+msgstr "ਕਾਲਾ"
+
+#: package/contents/ui/main.qml:464
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Red"
+msgstr "ਲਾਲ"
+
+#: package/contents/ui/main.qml:465
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Orange"
+msgstr "ਸੰਤਰੀ"
+
+#: package/contents/ui/main.qml:466
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Yellow"
+msgstr "ਪੀਲਾ"
+
+#: package/contents/ui/main.qml:467
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Green"
+msgstr "ਹਰਾ"
+
+#: package/contents/ui/main.qml:468
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Blue"
+msgstr "ਨੀਲਾ"
+
+#: package/contents/ui/main.qml:469
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Pink"
+msgstr "ਗੁਲਾਬੀ"
+
+#: package/contents/ui/main.qml:470
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent"
+msgstr "ਬਲੌਰੀ"
+
+#: package/contents/ui/main.qml:471
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu"
+#| msgid "Translucent"
+msgctxt "@item:inmenu"
+msgid "Translucent Light"
+msgstr "ਬਲੌਰੀ"

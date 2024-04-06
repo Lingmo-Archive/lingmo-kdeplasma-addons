@@ -1,0 +1,210 @@
+# translation of plasma_applet_notes.po to Français
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Nicolas Ternisien <nicolas.ternisien@gmail.com>, 2008.
+# xavier <xavier.besnard@neuf.fr>, 2013.
+# Thomas Vergnaud <thomas.vergnaud@gmx.fr>, 2015.
+# Simon Depiets <sdepiets@gmail.com>, 2018, 2019.
+# Nathan Murat <nathanmurat28@outlook.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_notes\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2019-12-10 21:36+0100\n"
+"Last-Translator: Nathan Murat <nathanmurat28@outlook.com>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 19.03.70\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "Apparence"
+
+#: package/contents/ui/configAppearance.qml:61
+#, kde-format
+msgid "A white sticky note"
+msgstr "Un post-it blanc"
+
+#: package/contents/ui/configAppearance.qml:62
+#, kde-format
+msgid "A black sticky note"
+msgstr "Un post-it noir"
+
+#: package/contents/ui/configAppearance.qml:63
+#, kde-format
+msgid "A red sticky note"
+msgstr "Un post-it rouge"
+
+#: package/contents/ui/configAppearance.qml:64
+#, kde-format
+msgid "An orange sticky note"
+msgstr "Un post-it orange"
+
+#: package/contents/ui/configAppearance.qml:65
+#, kde-format
+msgid "A yellow sticky note"
+msgstr "Un post-it jaune"
+
+#: package/contents/ui/configAppearance.qml:66
+#, kde-format
+msgid "A green sticky note"
+msgstr "Un post-it vert"
+
+#: package/contents/ui/configAppearance.qml:67
+#, kde-format
+msgid "A blue sticky note"
+msgstr "Un post-it bleu"
+
+#: package/contents/ui/configAppearance.qml:68
+#, kde-format
+msgid "A pink sticky note"
+msgstr "Un post-it rose"
+
+#: package/contents/ui/configAppearance.qml:69
+#, kde-format
+msgid "A translucent sticky note"
+msgstr "Un post-it translucide"
+
+#: package/contents/ui/configAppearance.qml:70
+#, kde-format
+msgid "A translucent sticky note with light text"
+msgstr "Un post-it translucide avec un texte clair"
+
+#: package/contents/ui/main.qml:231
+#, kde-format
+msgid "Undo"
+msgstr "Annuler"
+
+#: package/contents/ui/main.qml:239
+#, kde-format
+msgid "Redo"
+msgstr "Rétablir"
+
+#: package/contents/ui/main.qml:249
+#, kde-format
+msgid "Cut"
+msgstr "Couper"
+
+#: package/contents/ui/main.qml:257
+#, kde-format
+msgid "Copy"
+msgstr "Copier"
+
+#: package/contents/ui/main.qml:265
+#, kde-format
+msgid "Paste Without Formatting"
+msgstr "Coller sans mise en forme"
+
+#: package/contents/ui/main.qml:271
+#, kde-format
+msgid "Paste"
+msgstr "Coller"
+
+#: package/contents/ui/main.qml:280
+#, kde-format
+msgid "Delete"
+msgstr "Supprimer"
+
+#: package/contents/ui/main.qml:287
+#, kde-format
+msgid "Clear"
+msgstr "Effacer"
+
+#: package/contents/ui/main.qml:297
+#, kde-format
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: package/contents/ui/main.qml:382
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Bold"
+msgstr "Gras"
+
+#: package/contents/ui/main.qml:395
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Italic"
+msgstr "Italique"
+
+#: package/contents/ui/main.qml:408
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Underline"
+msgstr "Souligné"
+
+#: package/contents/ui/main.qml:421
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Strikethrough"
+msgstr "Barré"
+
+#: package/contents/ui/main.qml:462
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "White"
+msgstr "Blanc"
+
+#: package/contents/ui/main.qml:463
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Black"
+msgstr "Noir"
+
+#: package/contents/ui/main.qml:464
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Red"
+msgstr "Rouge"
+
+#: package/contents/ui/main.qml:465
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Orange"
+msgstr "Orange"
+
+#: package/contents/ui/main.qml:466
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Yellow"
+msgstr "Jaune"
+
+#: package/contents/ui/main.qml:467
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Green"
+msgstr "Vert"
+
+#: package/contents/ui/main.qml:468
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Blue"
+msgstr "Bleu"
+
+#: package/contents/ui/main.qml:469
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Pink"
+msgstr "Rose"
+
+#: package/contents/ui/main.qml:470
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent"
+msgstr "Translucide"
+
+#: package/contents/ui/main.qml:471
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Translucent Light"
+msgstr "Translucide clair"

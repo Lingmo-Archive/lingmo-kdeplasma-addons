@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-16 02:34+0200\n"
+"PO-Revision-Date: 2020-01-18 19:41-0800\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: package/contents/ui/main.qml:42
+#, kde-format
+msgid "Night Color Control"
+msgstr ""
+
+#: package/contents/ui/main.qml:45
+#, kde-format
+msgid "Night Color is inhibited"
+msgstr ""
+
+#: package/contents/ui/main.qml:48
+#, kde-format
+msgid "Night Color is unavailable"
+msgstr ""
+
+#: package/contents/ui/main.qml:51
+#, kde-format
+msgid "Night Color is disabled"
+msgstr ""
+
+#: package/contents/ui/main.qml:54
+#, kde-format
+msgid "Night Color is not running"
+msgstr ""
+
+#: package/contents/ui/main.qml:56
+#, kde-format
+msgid "Night Color is active (%1K)"
+msgstr ""
+
+#: package/contents/ui/main.qml:105
+#, kde-format
+msgid "Configure Night Color..."
+msgstr ""

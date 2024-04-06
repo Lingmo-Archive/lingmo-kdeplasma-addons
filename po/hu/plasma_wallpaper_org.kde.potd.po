@@ -1,0 +1,234 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeplasma-addons package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-19 03:35+0100\n"
+"PO-Revision-Date: 2019-12-02 23:58+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.03.70\n"
+
+#: contents/ui/config.qml:70
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Provider:"
+msgstr "Szolgáltató:"
+
+#: contents/ui/config.qml:81
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Category:"
+msgstr "Kategória:"
+
+#: contents/ui/config.qml:84
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "All"
+msgstr "Mind"
+
+#: contents/ui/config.qml:88
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "1080p"
+msgstr "1080p"
+
+#: contents/ui/config.qml:92
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "4K"
+msgstr "4K"
+
+#: contents/ui/config.qml:96
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Ultra Wide"
+msgstr "Ultra Wide"
+
+#: contents/ui/config.qml:100
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Background"
+msgstr "Háttér"
+
+#: contents/ui/config.qml:104
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Lock Screen"
+msgstr "Képernyő zárolása"
+
+#: contents/ui/config.qml:108
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Nature"
+msgstr "Nature"
+
+#: contents/ui/config.qml:112
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: contents/ui/config.qml:116
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Black"
+msgstr "Fekete"
+
+#: contents/ui/config.qml:120
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Flower"
+msgstr "Virág"
+
+#: contents/ui/config.qml:124
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Funny"
+msgstr "Vicces"
+
+#: contents/ui/config.qml:128
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Cute"
+msgstr "Aranyos"
+
+#: contents/ui/config.qml:132
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Cool"
+msgstr "Király"
+
+#: contents/ui/config.qml:136
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Fall"
+msgstr "Ősz"
+
+#: contents/ui/config.qml:140
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Love"
+msgstr "Szerelem"
+
+#: contents/ui/config.qml:144
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Design"
+msgstr "Design"
+
+#: contents/ui/config.qml:148
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Christmas"
+msgstr "Karácsony"
+
+#: contents/ui/config.qml:152
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Travel"
+msgstr "Utazás"
+
+#: contents/ui/config.qml:156
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Beach"
+msgstr "Part"
+
+#: contents/ui/config.qml:160
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Car"
+msgstr "Autó"
+
+#: contents/ui/config.qml:164
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Sports"
+msgstr "Sportok"
+
+#: contents/ui/config.qml:168
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Animal"
+msgstr "Állat"
+
+#: contents/ui/config.qml:172
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "People"
+msgstr "Emberek"
+
+#: contents/ui/config.qml:176
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Music"
+msgstr "Zene"
+
+#: contents/ui/config.qml:180
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Summer"
+msgstr "Nyár"
+
+#: contents/ui/config.qml:184
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Galaxy"
+msgstr "Galaxis"
+
+#: contents/ui/config.qml:203
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Positioning:"
+msgstr "Elhelyezkedés:"
+
+#: contents/ui/config.qml:206
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled and Cropped"
+msgstr "Nyújtva és levágva"
+
+#: contents/ui/config.qml:210
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled"
+msgstr "Nyújtva"
+
+#: contents/ui/config.qml:214
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled, Keep Proportions"
+msgstr "Arányosan nyújtva"
+
+#: contents/ui/config.qml:218
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Centered"
+msgstr "Középre"
+
+#: contents/ui/config.qml:222
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tiled"
+msgstr "Mozaik"
+
+#: contents/ui/config.qml:243
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Background color:"
+msgstr "Háttérszín:"
+
+#: contents/ui/config.qml:244
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Background Color"
+msgstr "Válassza ki a háttér színét"

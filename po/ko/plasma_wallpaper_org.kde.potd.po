@@ -1,0 +1,234 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Shinjo Park <kde@peremen.name>, 2018, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-19 03:35+0100\n"
+"PO-Revision-Date: 2019-09-25 22:38+0200\n"
+"Last-Translator: Shinjo Park <kde@peremen.name>\n"
+"Language-Team: Korean <kde-kr@kde.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 18.12.3\n"
+
+#: contents/ui/config.qml:70
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Provider:"
+msgstr "공급자:"
+
+#: contents/ui/config.qml:81
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Category:"
+msgstr "분류:"
+
+#: contents/ui/config.qml:84
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "All"
+msgstr "모두"
+
+#: contents/ui/config.qml:88
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "1080p"
+msgstr "1080p"
+
+#: contents/ui/config.qml:92
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "4K"
+msgstr "4K"
+
+#: contents/ui/config.qml:96
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Ultra Wide"
+msgstr "울트라 와이드"
+
+#: contents/ui/config.qml:100
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Background"
+msgstr "배경 화면"
+
+#: contents/ui/config.qml:104
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Lock Screen"
+msgstr "잠금 화면"
+
+#: contents/ui/config.qml:108
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Nature"
+msgstr "자연"
+
+#: contents/ui/config.qml:112
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: contents/ui/config.qml:116
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Black"
+msgstr "검은색"
+
+#: contents/ui/config.qml:120
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Flower"
+msgstr "꽃"
+
+#: contents/ui/config.qml:124
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Funny"
+msgstr "재미있음"
+
+#: contents/ui/config.qml:128
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Cute"
+msgstr "귀여움"
+
+#: contents/ui/config.qml:132
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Cool"
+msgstr "쿨함"
+
+#: contents/ui/config.qml:136
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Fall"
+msgstr "가을"
+
+#: contents/ui/config.qml:140
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Love"
+msgstr "사랑"
+
+#: contents/ui/config.qml:144
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Design"
+msgstr "디자인"
+
+#: contents/ui/config.qml:148
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Christmas"
+msgstr "크리스마스"
+
+#: contents/ui/config.qml:152
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Travel"
+msgstr "여행"
+
+#: contents/ui/config.qml:156
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Beach"
+msgstr "해변"
+
+#: contents/ui/config.qml:160
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Car"
+msgstr "자동차"
+
+#: contents/ui/config.qml:164
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Sports"
+msgstr "스포츠"
+
+#: contents/ui/config.qml:168
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Animal"
+msgstr "동물"
+
+#: contents/ui/config.qml:172
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "People"
+msgstr "사람"
+
+#: contents/ui/config.qml:176
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Music"
+msgstr "음악"
+
+#: contents/ui/config.qml:180
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Summer"
+msgstr "여름"
+
+#: contents/ui/config.qml:184
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Galaxy"
+msgstr "은하계"
+
+#: contents/ui/config.qml:203
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Positioning:"
+msgstr "위치:"
+
+#: contents/ui/config.qml:206
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled and Cropped"
+msgstr "크기 조정 후 자르기"
+
+#: contents/ui/config.qml:210
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled"
+msgstr "크기 조정"
+
+#: contents/ui/config.qml:214
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Scaled, Keep Proportions"
+msgstr "크기 조정, 비율 유지"
+
+#: contents/ui/config.qml:218
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Centered"
+msgstr "가운데"
+
+#: contents/ui/config.qml:222
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tiled"
+msgstr "바둑판식 배열"
+
+#: contents/ui/config.qml:243
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Background color:"
+msgstr "배경색:"
+
+#: contents/ui/config.qml:244
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Background Color"
+msgstr "배경색 선택"

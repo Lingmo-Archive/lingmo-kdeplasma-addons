@@ -1,0 +1,74 @@
+# translation of plasma_applet_binaryclock.po to Français
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Paul Morin <m.paulmorin@gmail.com>, 2008.
+# Joëlle Cornavin <jcornavi@club-internet.fr>, 2009.
+# xavier <xavier.besnard@neuf.fr>, 2013.
+# Vincent Pinon <vpinon@kde.org>, 2017.
+# Simon Depiets <sdepiets@gmail.com>, 2018, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_binaryclock\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"PO-Revision-Date: 2019-03-20 01:01+0800\n"
+"Last-Translator: Simon Depiets <sdepiets@gmail.com>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 19.07.70\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: package/contents/config/config.qml:29
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "Apparence"
+
+#: package/contents/ui/configGeneral.qml:47
+#, kde-format
+msgid "Display:"
+msgstr "Affichage :"
+
+#: package/contents/ui/configGeneral.qml:48
+#: package/contents/ui/configGeneral.qml:102
+#, kde-format
+msgctxt "@option:check"
+msgid "Grid"
+msgstr "Grille"
+
+#: package/contents/ui/configGeneral.qml:53
+#: package/contents/ui/configGeneral.qml:89
+#, kde-format
+msgctxt "@option:check"
+msgid "Inactive LEDs"
+msgstr "Diodes inactives"
+
+#: package/contents/ui/configGeneral.qml:58
+#, kde-format
+msgctxt "@option:check"
+msgid "Seconds"
+msgstr "Secondes"
+
+#: package/contents/ui/configGeneral.qml:63
+#, kde-format
+msgctxt "@option:check"
+msgid "In BCD format (decimal)"
+msgstr "Au format DCB (décimal codé binaire)"
+
+#: package/contents/ui/configGeneral.qml:72
+#, kde-format
+msgid "Use custom color for:"
+msgstr "Utiliser une couleur personnalisée pour :"
+
+#: package/contents/ui/configGeneral.qml:76
+#, kde-format
+msgctxt "@option:check"
+msgid "Active LEDs"
+msgstr "Diodes actives"

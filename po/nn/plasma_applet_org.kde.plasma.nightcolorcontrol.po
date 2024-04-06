@@ -1,0 +1,55 @@
+# Translation of plasma_applet_org.kde.plasma.nightcolorcontrol to Norwegian Nynorsk
+#
+# Karl Ove Hufthammer <karl@huftis.org>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-16 02:34+0200\n"
+"PO-Revision-Date: 2020-03-14 22:38+0100\n"
+"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+"Language-Team: Norwegian Nynorsk <l10n-no@lister.huftis.org>\n"
+"Language: nn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.12.2\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: package/contents/ui/main.qml:42
+#, kde-format
+msgid "Night Color Control"
+msgstr "Styring av nattfargar"
+
+#: package/contents/ui/main.qml:45
+#, kde-format
+msgid "Night Color is inhibited"
+msgstr "Nattfargar er blokkerte"
+
+#: package/contents/ui/main.qml:48
+#, kde-format
+msgid "Night Color is unavailable"
+msgstr "Nattfargar er ikkje tilgjengelege"
+
+#: package/contents/ui/main.qml:51
+#, kde-format
+msgid "Night Color is disabled"
+msgstr "Nattfargar er av"
+
+#: package/contents/ui/main.qml:54
+#, kde-format
+msgid "Night Color is not running"
+msgstr "Nattfargar køyrer ikkje"
+
+#: package/contents/ui/main.qml:56
+#, kde-format
+msgid "Night Color is active (%1K)"
+msgstr "Nattfargar er på (%1 K)"
+
+#: package/contents/ui/main.qml:105
+#, kde-format
+msgid "Configure Night Color..."
+msgstr "Set opp nattfargar …"

@@ -1,0 +1,210 @@
+# Translation of plasma_applet_org.kde.plasma.mediaframe.po to Brazilian Portuguese
+# Copyright (C) 2016-2019 This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# André Marcelo Alvarenga <alvarenga@kde.org>, 2016, 2019.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.mediaframe\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-02 02:24+0200\n"
+"PO-Revision-Date: 2019-05-18 14:55-0300\n"
+"Last-Translator: André Marcelo Alvarenga <alvarenga@kde.org>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@kde.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 19.04.0\n"
+
+#: package/contents/config/config.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "Geral"
+
+#: package/contents/config/config.qml:30
+#, kde-format
+msgctxt "@title"
+msgid "Paths"
+msgstr "Caminhos"
+
+#: package/contents/ui/ConfigGeneral.qml:61
+#, kde-format
+msgid "Change picture every:"
+msgstr "Alterar a imagem a cada:"
+
+#: package/contents/ui/ConfigGeneral.qml:78
+#, kde-format
+msgid "Hours"
+msgstr "Horas"
+
+#: package/contents/ui/ConfigGeneral.qml:92
+#, kde-format
+msgid "Minutes"
+msgstr "Minutos"
+
+#: package/contents/ui/ConfigGeneral.qml:106
+#, kde-format
+msgid "Seconds"
+msgstr "Segundos"
+
+#: package/contents/ui/ConfigGeneral.qml:116
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Image fill mode:"
+msgstr "Modo de preenchimento da imagem:"
+
+#: package/contents/ui/ConfigGeneral.qml:123
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Stretch"
+msgstr "Alongar"
+
+#: package/contents/ui/ConfigGeneral.qml:124
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled to fit the frame"
+msgstr "A escala da imagem é ajustada para caber no quadro"
+
+#: package/contents/ui/ConfigGeneral.qml:128
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Preserve aspect fit"
+msgstr "Manter a proporção"
+
+#: package/contents/ui/ConfigGeneral.qml:129
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled uniformly to fit without cropping"
+msgstr ""
+"A escala da imagem é ajustada de forma uniforme para caber sem recortes"
+
+#: package/contents/ui/ConfigGeneral.qml:133
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Preserve aspect crop"
+msgstr "Manter a proporção no recorte"
+
+#: package/contents/ui/ConfigGeneral.qml:134
+#, kde-format
+msgctxt "@info"
+msgid "The image is scaled uniformly to fill, cropping if necessary"
+msgstr ""
+"A escala da imagem é ajustada de forma uniforme para caber, recortando se "
+"necessário"
+
+#: package/contents/ui/ConfigGeneral.qml:138
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile"
+msgstr "Lado a lado"
+
+#: package/contents/ui/ConfigGeneral.qml:139
+#, kde-format
+msgctxt "@info"
+msgid "The image is duplicated horizontally and vertically"
+msgstr "A imagem é duplicada na horizontal e na vertical"
+
+#: package/contents/ui/ConfigGeneral.qml:143
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile vertically"
+msgstr "Lado a lado na vertical"
+
+#: package/contents/ui/ConfigGeneral.qml:144
+#, kde-format
+msgctxt "@info"
+msgid "The image is stretched horizontally and tiled vertically"
+msgstr "A imagem é esticada na horizontal e colocada lado a lado na vertical"
+
+#: package/contents/ui/ConfigGeneral.qml:148
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tile horizontally"
+msgstr "Lado a lado na horizontal"
+
+#: package/contents/ui/ConfigGeneral.qml:149
+#, kde-format
+msgctxt "@info"
+msgid "The image is stretched vertically and tiled horizontally"
+msgstr "A imagem é esticada na vertical e colocada lado a lado na horizontal"
+
+#: package/contents/ui/ConfigGeneral.qml:153
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Pad"
+msgstr "Normal"
+
+#: package/contents/ui/ConfigGeneral.qml:154
+#, kde-format
+msgctxt "@info"
+msgid "The image is not transformed"
+msgstr "A imagem não é transformada"
+
+#: package/contents/ui/ConfigGeneral.qml:199
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "General:"
+msgstr "Geral:"
+
+#: package/contents/ui/ConfigGeneral.qml:200
+#, kde-format
+msgctxt "@option:check"
+msgid "Randomize order"
+msgstr "Ordem aleatória"
+
+#: package/contents/ui/ConfigGeneral.qml:205
+#, kde-format
+msgctxt "@option:check"
+msgid "Pause slideshow when cursor is over image"
+msgstr "Pausar apresentação de slides quando o cursor estiver sobre a imagem"
+
+#: package/contents/ui/ConfigGeneral.qml:210
+#, kde-format
+msgctxt "@option:check"
+msgid "Show background frame"
+msgstr "Exibir fundo da moldura"
+
+#: package/contents/ui/ConfigGeneral.qml:215
+#, kde-format
+msgctxt "@option:check"
+msgid "Click on image to open in external application"
+msgstr "Clique na imagem para abrir no aplicativo externo"
+
+#: package/contents/ui/ConfigPaths.qml:61
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Files"
+msgstr "Escolher arquivos"
+
+#: package/contents/ui/ConfigPaths.qml:87
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose a Folder"
+msgstr "Escolher uma pasta"
+
+#: package/contents/ui/ConfigPaths.qml:135
+#, kde-format
+msgid "Remove path"
+msgstr "Remover caminho"
+
+#: package/contents/ui/ConfigPaths.qml:149
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Folder..."
+msgstr "Adicionar pasta..."
+
+#: package/contents/ui/ConfigPaths.qml:155
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Files..."
+msgstr "Adicionar arquivos..."
+
+#: package/contents/ui/main.qml:450
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure..."
+msgstr "Configurar..."

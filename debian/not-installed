@@ -1,0 +1,20 @@
+# potd development files
+usr/include/plasma/potdprovider/
+usr/lib/*/cmake/PlasmaPotdProvider/
+usr/lib/*/libplasmapotdprovidercore.so
+usr/share/kdevappwizard/templates/plasmapotdprovider.tar.bz2
+#
+# the following files *ARE* installed via d/rules
+# but because the are not available on all architectures
+# (missing on those where qtwebengine is not available)
+# we need to install them via d/rules copy lines.
+# debhelper >= 13 defaults to dh_missing --fail-missing
+# so we need to make sure that debhelper doesn't complain.
+usr/lib/*/qt5/qml/org/kde/plasma/private/dict/
+usr/share/icons/hicolor/scalable/apps/accessories-dictionary.svgz
+usr/share/kservices5/plasma-applet-org.kde.plasma.webbrowser.desktop
+usr/share/kservices5/plasma-applet-org.kde.plasma_applet_dict.desktop
+usr/share/metainfo/org.kde.plasma.webbrowser.appdata.xml
+usr/share/metainfo/org.kde.plasma_applet_dict.appdata.xml
+usr/share/plasma/plasmoids/org.kde.plasma.webbrowser/
+usr/share/plasma/plasmoids/org.kde.plasma_applet_dict/
